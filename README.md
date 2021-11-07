@@ -6,3 +6,4 @@
 [《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)
 # 文学类
 [《麦田里的守望者》](https://github.com/MuSk7777/Blog/issues/4#issue-1040013346)
+# 冷知识
