@@ -5,7 +5,7 @@
   
 [烹饪](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
 [英语学习](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
-[如何快乐地戒掉王者荣耀？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)
+[如何轻松地戒掉王者荣耀？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)
 # 科学类
 [《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
 [冷知识](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)
