@@ -8,6 +8,8 @@
 [英语学习](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
 [如何轻松地戒掉王者荣耀？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
 [练习引体向上](https://github.com/MuSk7777/Blog/issues/16#issue-1057273475)
+# 效率提升
+
 # 科学类
 [《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
 [冷知识](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)  
