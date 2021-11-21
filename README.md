@@ -11,11 +11,11 @@
 # 效率提升
 [Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)  
 [《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
-# 随想
-
 # 科学类
 [冷知识](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)  
 [为什么Java标准库中的System.arraycopy()方法没采用驼峰命名法？](https://stackoverflow.com/questions/8421103/why-is-system-arraycopy-not-camelcased)
+# 随想
+[怎么长期坚持一件事](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)
 # 文学类
 《麦田里的守望者》  
 第一人称视角讲述一个辍学高中生在外面到处逛的故事，我读了两三遍也没悟出什么大道理来，但就是很喜欢。
