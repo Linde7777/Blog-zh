@@ -11,6 +11,7 @@
 # 效率提升
 [Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)  
 [《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
+# 随想
 
 # 科学类
 [冷知识](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)  
