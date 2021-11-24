@@ -15,7 +15,8 @@
 [冷知识](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)  
 [为什么Java标准库中的System.arraycopy()方法没采用驼峰命名法？](https://stackoverflow.com/questions/8421103/why-is-system-arraycopy-not-camelcased)
 # 随想
-[怎么长期坚持一件事](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)
+[怎么长期坚持一件事](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
+[不知道取什么标题](https://github.com/MuSk7777/Blog/issues/18#issue-1062264684)
 # 文学类
 《麦田里的守望者》  
 第一人称视角讲述一个辍学高中生在外面到处逛的故事，我读了两三遍也没悟出什么大道理来，但就是很喜欢。
