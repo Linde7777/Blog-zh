@@ -7,7 +7,8 @@
 [烹饪](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
 [英语学习](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
 [如何轻松地戒掉王者荣耀？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
-[练习引体向上](https://github.com/MuSk7777/Blog/issues/16#issue-1057273475)
+[练习引体向上](https://github.com/MuSk7777/Blog/issues/16#issue-1057273475)  
+三只松鼠的手撕面包比百草味的更软，百草味的有点干。
 # 效率提升
 [Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
 [Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)  
