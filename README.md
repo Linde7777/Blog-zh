@@ -19,7 +19,7 @@
 [为什么Java标准库中的System.arraycopy()方法没采用驼峰命名法？](https://stackoverflow.com/questions/8421103/why-is-system-arraycopy-not-camelcased)  
 [B站带逛：东北为什么衰退？](https://www.bilibili.com/video/BV17b4y187KH)
 # 随想
-[怎么长期坚持一件事](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
+[怎么长期坚持一件事，或“自律”？](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
 [不知道取什么标题](https://github.com/MuSk7777/Blog/issues/18#issue-1062264684)  
 # 文学类
 《麦田里的守望者》  
