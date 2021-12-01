@@ -1,14 +1,10 @@
-# 帮你踩坑  
+# 编程
+一个练递归的网站https://codingbat.com/java/Recursion-1  
 [Vim的学习曲线并不陡峭](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858)  
 [Git教程哪家强？](https://github.com/MuSk7777/Blog/issues/3#issue-1027924740)  
 [数据结构课程](https://github.com/MuSk7777/Blog/issues/8#issue-1044356074)  
 [如何屏蔽GeeksforGeeks的强制注册窗口?](https://github.com/MuSk7777/Blog/issues/15#issue-1053565751)  
-
-[烹饪](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
 [英语学习](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
-[如何轻松地戒掉王者荣耀？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
-[练习引体向上](https://github.com/MuSk7777/Blog/issues/16#issue-1057273475)  
-三只松鼠的手撕面包比百草味的更软，百草味的有点干。
 # 效率提升
 [Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
 [Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)  
@@ -18,6 +14,11 @@
 [冷知识](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)  
 [为什么Java标准库中的System.arraycopy()方法没采用驼峰命名法？](https://stackoverflow.com/questions/8421103/why-is-system-arraycopy-not-camelcased)  
 [B站带逛：东北为什么衰退？](https://www.bilibili.com/video/BV17b4y187KH)
+# 帮你踩坑  
+[烹饪](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
+[如何轻松地戒掉王者荣耀？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
+[练习引体向上](https://github.com/MuSk7777/Blog/issues/16#issue-1057273475)  
+三只松鼠的手撕面包比百草味的更软，百草味的有点干。
 # 随想
 [怎么长期坚持一件事，或“自律”？](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
 [不知道取什么标题](https://github.com/MuSk7777/Blog/issues/18#issue-1062264684)  
