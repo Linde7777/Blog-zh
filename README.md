@@ -1,10 +1,10 @@
 # 编程
-一个练递归的网站https://codingbat.com/java/Recursion-1  
 [Vim的学习曲线并不陡峭](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858)  
 [Git教程哪家强？](https://github.com/MuSk7777/Blog/issues/3#issue-1027924740)  
 [数据结构课程](https://github.com/MuSk7777/Blog/issues/8#issue-1044356074)  
 [如何屏蔽GeeksforGeeks的强制注册窗口?](https://github.com/MuSk7777/Blog/issues/15#issue-1053565751)  
 [英语学习](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
+[递归练习网站](https://codingbat.com/java/Recursion-1)以及[我的答案](https://github.com/MuSk7777/RecursionPractice)  
 # 效率提升
 [Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
 [Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)  
@@ -39,10 +39,6 @@
   《雾都孤儿》  
   一般般，不推荐  
   
-  《你当像鸟飞往你的山》
+  《你当像鸟飞往你的山》  
   讲述的是作者自己成长的故事，她的家庭很少跟社会接触，父亲怀疑政府，每天都在为末日作准备，她的虐待狂哥哥对她时好时坏。整体一般般吧，虽然原版书名是Educated，但我感觉书里描述的主要还是她的家庭。
   好的地方也不是没有，当父亲得知作者要去英国读书时，他是这么反应的：“如果你在美国，”他低声说，“无论你在哪个角落，我们都可以去找你。我在地下埋了一千加仑汽油。世界末日来临时我可以去接你，带你回家，让你平平安安的。但要是你去了大洋彼岸……”
-  
-    
-   
-  
