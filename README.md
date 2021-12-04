@@ -18,7 +18,8 @@
 [烹饪](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
 [如何轻松地戒掉王者荣耀？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
 [练习引体向上](https://github.com/MuSk7777/Blog/issues/16#issue-1057273475)  
-三只松鼠的手撕面包比百草味的更软，百草味的有点干。
+三只松鼠的手撕面包比百草味的更软，百草味的有点干。  
+看医生的时候，记得把医生说的注意事项用备忘录记下来，大脑迟早会忘。
 # 随想
 [怎么长期坚持一件事，或“自律”？](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
 [不知道取什么标题](https://github.com/MuSk7777/Blog/issues/18#issue-1062264684)  
