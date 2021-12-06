@@ -10,7 +10,7 @@
 [《异类》](https://github.com/MuSk7777/Blog-zh/issues/20#issue-1071466420)  
 [《成长的边界》（这书名翻译的不太好，其实内容还是可以的）](https://github.com/MuSk7777/Blog-zh/issues/19#issue-1071354136)  
 [《经济学原理》](https://github.com/MuSk7777/Blog/issues/6#issue-1040030414)  
-[冷知识](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)  
+[冷知识（不定期更新)](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)  
 [为什么Java标准库中的System.arraycopy()方法没采用驼峰命名法？](https://stackoverflow.com/questions/8421103/why-is-system-arraycopy-not-camelcased)  
 [B站带逛：东北为什么衰退？](https://www.bilibili.com/video/BV17b4y187KH)
 # 效率提升
