@@ -5,10 +5,6 @@
 [如何屏蔽GeeksforGeeks的强制注册窗口?](https://github.com/MuSk7777/Blog/issues/15#issue-1053565751)  
 [英语学习](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
 [递归练习网站](https://codingbat.com/java/Recursion-1)以及[我的答案](https://github.com/MuSk7777/RecursionPractice)  
-# 效率提升
-[Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
-[Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)  
-[《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
 # 科学类
 [《How to: 如何不切实际地解决实际问题》](https://github.com/MuSk7777/Blog-zh/issues/21#issue-1071472659)  
 [《异类》](https://github.com/MuSk7777/Blog-zh/issues/20#issue-1071466420)  
@@ -17,6 +13,10 @@
 [冷知识](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)  
 [为什么Java标准库中的System.arraycopy()方法没采用驼峰命名法？](https://stackoverflow.com/questions/8421103/why-is-system-arraycopy-not-camelcased)  
 [B站带逛：东北为什么衰退？](https://www.bilibili.com/video/BV17b4y187KH)
+# 效率提升
+[Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
+[Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)  
+[《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
 # 帮你踩坑  
 [烹饪](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
 [如何轻松地戒掉王者荣耀？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
