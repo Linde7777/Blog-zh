@@ -3,14 +3,14 @@
 [Git教程哪家强？](https://github.com/MuSk7777/Blog/issues/3#issue-1027924740)  
 [数据结构课程](https://github.com/MuSk7777/Blog/issues/8#issue-1044356074)  
 [如何屏蔽GeeksforGeeks的强制注册窗口?](https://github.com/MuSk7777/Blog/issues/15#issue-1053565751)  
-[英语学习](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
+[英语学习（2021/12/6更新）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
 [递归练习网站](https://codingbat.com/java/Recursion-1)以及[我的答案](https://github.com/MuSk7777/RecursionPractice)  
 # 科学类
 [《How to: 如何不切实际地解决实际问题》](https://github.com/MuSk7777/Blog-zh/issues/21#issue-1071472659)  
 [《异类》](https://github.com/MuSk7777/Blog-zh/issues/20#issue-1071466420)  
 [《成长的边界》（这书名翻译的不太好，其实内容还是可以的）](https://github.com/MuSk7777/Blog-zh/issues/19#issue-1071354136)  
 [《经济学原理》](https://github.com/MuSk7777/Blog/issues/6#issue-1040030414)  
-[冷知识（不定期更新)](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)  
+[冷知识（2021/12/6更新)](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)  
 [为什么Java标准库中的System.arraycopy()方法没采用驼峰命名法？](https://stackoverflow.com/questions/8421103/why-is-system-arraycopy-not-camelcased)  
 [B站带逛：东北为什么衰退？](https://www.bilibili.com/video/BV17b4y187KH)
 # 效率提升
