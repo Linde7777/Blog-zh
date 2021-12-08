@@ -17,7 +17,7 @@
 [B站带逛：东北为什么衰退？](https://www.bilibili.com/video/BV17b4y187KH)
 # 效率提升
 [Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
-[Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)  
+[Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(其实这些快捷键在其他浏览器上也是一样的，VScode也能用）  
 [《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
 # 帮你踩坑  
 [烹饪](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
