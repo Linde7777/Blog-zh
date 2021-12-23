@@ -1,18 +1,18 @@
 # 编程
-[Vim的学习曲线并不陡峭（2021/12/07更新）](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858)  
+[Vim的学习曲线并不陡峭（第1次更新）](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858)  
 [Git教程哪家强？](https://github.com/MuSk7777/Blog/issues/3#issue-1027924740)  
-[数据结构课程（2021/12/07更新）](https://github.com/MuSk7777/Blog/issues/8#issue-1044356074)  
-[递归练习（2021/12/16更新）](https://github.com/MuSk7777/Blog-zh/issues/25#issue-1081874663)    
+[数据结构课程（第1次更新）](https://github.com/MuSk7777/Blog/issues/8#issue-1044356074)  
+[递归练习（第2次更新）](https://github.com/MuSk7777/Blog-zh/issues/25#issue-1081874663)    
 [如何屏蔽GeeksforGeeks的强制注册窗口?](https://github.com/MuSk7777/Blog/issues/15#issue-1053565751)  
-[英语学习（2021/12/06更新）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
+[英语学习（第1次更新）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
+[为什么Java标准库中的System.arraycopy()方法没采用驼峰命名法？](https://stackoverflow.com/questions/8421103/why-is-system-arraycopy-not-camelcased)  
 如果你在图书馆使用电脑，你可以右手控制鼠标移动，用左手点击触控板来代替鼠标左键（两个手指点击触控板是右键），这样就不会发出声音。
 # 科学类
 [《How to: 如何不切实际地解决实际问题》](https://github.com/MuSk7777/Blog-zh/issues/21#issue-1071472659)  
 [《异类》](https://github.com/MuSk7777/Blog-zh/issues/20#issue-1071466420)  
 [《成长的边界》（这书名翻译的不太好，其实内容还是可以的）](https://github.com/MuSk7777/Blog-zh/issues/19#issue-1071354136)  
 [《经济学原理》](https://github.com/MuSk7777/Blog/issues/6#issue-1040030414)  
-[冷知识（2021/12/6更新)](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)  
-[为什么Java标准库中的System.arraycopy()方法没采用驼峰命名法？](https://stackoverflow.com/questions/8421103/why-is-system-arraycopy-not-camelcased)  
+[冷知识（第3次更新)](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)  
 [B站带逛：东北为什么衰退？](https://www.bilibili.com/video/BV17b4y187KH)
 # 效率提升
 [Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
@@ -27,13 +27,13 @@
 去海边游泳要特别注意防晒，下午5点是比较合适的。不要去海滨浴场，水很浅。  
 涂保湿霜可以有效防止静电的产生。
 # 随想
-[怎么长期坚持一件事，或“自律”？](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
+[怎么长期坚持一件事，或“自律”？（第1次更新）](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
 [尽量保持友善](https://github.com/MuSk7777/Blog/issues/18#issue-1062264684)  
 
 如果将来发明出纳米医疗机器人，机器人可以直接消灭病毒（新冠、艾滋病、狂犬病等等）、细菌、癌细胞，机器人可以抵达大脑特定部位施加电刺激，将来疫苗等医疗手段都没有存在的必要。  
 
 现在的自动驾驶事故一般都是车辆摄像头识别错误引起的，如果一条高速公路上的车全是自动驾驶的车，车之间的数据可以共享，不需要摄像头识别，那应该还是比人类自己开要安全的。
-# 文学类
+# 文学类（第3次更新）
 "We are all born originals - why is it so many of us die copies?" by Edward Young  
 
 《霍乱时期的爱情》  
