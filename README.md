@@ -19,7 +19,7 @@
 [Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(其实这些快捷键在其他浏览器上也是一样的，VScode也能用）  
 [《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
 # 帮你踩坑  
-[烹饪](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
+[烹饪（第二次更新）](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
 [如何轻松地戒掉王者荣耀？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
 [练习引体向上](https://github.com/MuSk7777/Blog/issues/16#issue-1057273475)  
 三只松鼠的手撕面包比百草味的更软，百草味的有点干。  
