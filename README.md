@@ -25,6 +25,7 @@
 [Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
 [Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(其实这些快捷键在其他浏览器上也是一样的，VScode也能用）  
 [《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
+MIUI的屏幕时间管理还挺好用的，还有个专注模式，可以设置成一个番茄钟
 # 帮你踩坑  
 [大学生活](https://github.com/MuSk7777/Blog-zh/issues/29#issue-1104629571)  
 [烹饪（第二次更新）](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
