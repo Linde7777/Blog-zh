@@ -23,7 +23,7 @@
 [B站带逛：东北为什么衰退？](https://www.bilibili.com/video/BV17b4y187KH)
 # 效率提升
 [Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
-[Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(其实这些快捷键在其他浏览器上也是一样的，VScode也能用）  
+[Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(这些快捷键在其他浏览器上也是一样的，VSCode也能用）  
 [《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
 MIUI的屏幕时间管理还挺好用的，还有个专注模式，可以设置成一个番茄钟
 # 帮你踩坑  
@@ -38,6 +38,7 @@ MIUI的屏幕时间管理还挺好用的，还有个专注模式，可以设置�
 # 随想
 [怎么长期坚持一件事，或“自律”？（第1次更新）](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
 [尽量保持友善](https://github.com/MuSk7777/Blog/issues/18#issue-1062264684)  
+[关于“道理我都懂，但就是不去做”的思考](https://github.com/MuSk7777/Blog-zh/issues/30#issue-1112542307)  
 
 如果将来发明出纳米医疗机器人，机器人可以直接消灭病毒（新冠、艾滋病、狂犬病等等）、细菌、癌细胞，机器人可以抵达大脑特定部位施加电刺激，将来疫苗等医疗手段都没有存在的必要。  
 
