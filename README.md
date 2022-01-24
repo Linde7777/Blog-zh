@@ -36,7 +36,7 @@ MIUI的屏幕时间管理还挺好用的，还有个专注模式，可以设置�
 去海边游泳要特别注意防晒，下午5点是比较合适的。不要去海滨浴场，水很浅。  
 涂保湿霜可以有效防止静电的产生。
 # 随想
-[怎么长期坚持一件事，或“自律”？（第1次更新）](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
+[被说烂的话题：如何长期坚持一件事，或“自律”？（第1次更新）](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
 [尽量保持友善](https://github.com/MuSk7777/Blog/issues/18#issue-1062264684)  
 [关于“道理我都懂，但就是不去做”的思考](https://github.com/MuSk7777/Blog-zh/issues/30#issue-1112542307)  
 
