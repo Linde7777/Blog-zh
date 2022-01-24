@@ -27,6 +27,7 @@
 [《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
 MIUI的屏幕时间管理还挺好用的，还有个专注模式，可以设置成一个番茄钟
 # 帮你踩坑  
+[广州和深圳的生活](https://github.com/MuSk7777/Blog-zh/issues/31#issue-1112567734)  
 [大学生活](https://github.com/MuSk7777/Blog-zh/issues/29#issue-1104629571)  
 [烹饪（第二次更新）](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
 [如何轻松地戒掉王者荣耀？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
