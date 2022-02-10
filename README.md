@@ -28,17 +28,26 @@
 MIUI的屏幕时间管理还挺好用的，还有个专注模式，可以设置成一个番茄钟
 # 帮你踩坑  
 [广州和深圳的生活](https://github.com/MuSk7777/Blog-zh/issues/31#issue-1112567734)  
+
 [大学生活](https://github.com/MuSk7777/Blog-zh/issues/29#issue-1104629571)  
+
 [烹饪（第二次更新）](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
+
 [如何轻松地大幅减少玩游戏的时间？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
+
 [练习引体向上](https://github.com/MuSk7777/Blog/issues/16#issue-1057273475)  
+
 三只松鼠的手撕面包比百草味的更软，百草味的有点干。  
 看医生的时候，记得把医生说的注意事项用备忘录记下来，大脑迟早会忘。  
 去海边游泳要特别注意防晒，下午5点是比较合适的。不要去海滨浴场，水很浅。  
 涂保湿霜可以有效防止静电的产生。
 # 随想
+[犹豫不定的时候怎么作出选择？](https://github.com/Linde7777/Blog-zh/issues/32)  
+
 [被说烂的话题：如何长期坚持一件事，或“自律”？（第1次更新）](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
+
 [尽量保持友善](https://github.com/MuSk7777/Blog/issues/18#issue-1062264684)  
+
 [关于“道理我都懂，但就是不去做”的思考](https://github.com/MuSk7777/Blog-zh/issues/30#issue-1112542307)  
 
 如果将来发明出纳米医疗机器人，机器人可以直接消灭病毒（新冠、艾滋病、狂犬病等等）、细菌、癌细胞，机器人可以抵达大脑特定部位施加电刺激，将来疫苗等医疗手段都没有存在的必要。  
