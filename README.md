@@ -5,7 +5,7 @@
 
 [数据结构课程（第1次更新）](https://github.com/MuSk7777/Blog/issues/8#issue-1044356074)  
 
-[计算机系统结构课程（全新出炉）](https://github.com/MuSk7777/Blog-zh/issues/28#issue-1104627242)  
+[计算机系统结构课程](https://github.com/MuSk7777/Blog-zh/issues/28#issue-1104627242)  
 
 [递归练习（第2次更新）](https://github.com/MuSk7777/Blog-zh/issues/25#issue-1081874663)    
 
