@@ -3,9 +3,9 @@
 
 [Git教程哪家强？](https://github.com/MuSk7777/Blog/issues/3#issue-1027924740)  
 
-[数据结构课程（第1次更新）](https://github.com/MuSk7777/Blog/issues/8#issue-1044356074)  
+[CS61B 数据结构（第1次更新）](https://github.com/MuSk7777/Blog/issues/8#issue-1044356074)  
 
-[计算机系统结构课程](https://github.com/MuSk7777/Blog-zh/issues/28#issue-1104627242)  
+[CS61C 计算机系统结构](https://github.com/MuSk7777/Blog-zh/issues/28#issue-1104627242)  
 
 [递归练习（第2次更新）](https://github.com/MuSk7777/Blog-zh/issues/25#issue-1081874663)    
 
