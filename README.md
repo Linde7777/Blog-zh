@@ -25,7 +25,8 @@
 [Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
 [Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(这些快捷键在其他浏览器上也是一样的，VSCode也能用）  
 [《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
-MIUI的屏幕时间管理还挺好用的，还有个专注模式，可以设置成一个番茄钟
+MIUI的屏幕时间管理还挺好用的  
+番茄TODO这个APP不错  
 # 帮你踩坑  
 [广州和深圳的生活](https://github.com/MuSk7777/Blog-zh/issues/31#issue-1112567734)  
 
@@ -40,7 +41,7 @@ MIUI的屏幕时间管理还挺好用的，还有个专注模式，可以设置�
 三只松鼠的手撕面包比百草味的更软，百草味的有点干。  
 看医生的时候，记得把医生说的注意事项用备忘录记下来，大脑迟早会忘。  
 去海边游泳要特别注意防晒，下午5点是比较合适的。不要去海滨浴场，水很浅。  
-涂保湿霜可以有效防止静电的产生。
+不管会不会游泳，都一定要带游泳圈或者跟屁虫！    
 # 随想
 [犹豫不定的时候怎么作出选择？](https://github.com/Linde7777/Blog-zh/issues/32)  
 
