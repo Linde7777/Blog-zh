@@ -11,7 +11,7 @@
 
 [CS186 数据库](https://github.com/Linde7777/Blog-zh/issues/34#issue-1145005017)
 
-[递归练习（第2次更新）](https://github.com/MuSk7777/Blog-zh/issues/25#issue-1081874663)    
+[比较轻松的递归入门练习（第2次更新）](https://github.com/MuSk7777/Blog-zh/issues/25#issue-1081874663)    
 
 [如何屏蔽GeeksforGeeks的强制注册窗口?](https://github.com/MuSk7777/Blog/issues/15#issue-1053565751)  
 
