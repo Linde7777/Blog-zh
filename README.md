@@ -9,6 +9,8 @@
 
 [CS144 计算机网络](https://github.com/Linde7777/Blog-zh/issues/33#issue-1135545503)  
 
+[CS186 数据库](https://github.com/Linde7777/Blog-zh/issues/34#issue-1145005017)
+
 [递归练习（第2次更新）](https://github.com/MuSk7777/Blog-zh/issues/25#issue-1081874663)    
 
 [如何屏蔽GeeksforGeeks的强制注册窗口?](https://github.com/MuSk7777/Blog/issues/15#issue-1053565751)  
@@ -22,7 +24,8 @@
 [《成长的边界》（这书名翻译得有点鸡汤味，其实内容还是可以的）](https://github.com/MuSk7777/Blog-zh/issues/19#issue-1071354136)  
 [《经济学原理》](https://github.com/MuSk7777/Blog/issues/6#issue-1040030414)  
 [冷知识（第3次更新)](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)  
-[B站带逛：东北为什么衰退？](https://www.bilibili.com/video/BV17b4y187KH)
+[B站带逛：东北为什么衰退？](https://www.bilibili.com/video/BV17b4y187KH)  
+《三体》挺好看的，第一部有点无聊，主要是交待背景。  
 # 效率提升
 [Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
 [Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(这些快捷键在其他浏览器上也是一样的，VSCode也能用）  
