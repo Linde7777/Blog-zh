@@ -33,6 +33,8 @@
 MIUI的屏幕时间管理还挺好用的  
 番茄TODO这个APP不错  
 # 帮你踩坑  
+Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种  
+
 [广州和深圳的生活](https://github.com/MuSk7777/Blog-zh/issues/31#issue-1112567734)  
 
 [大学生活](https://github.com/MuSk7777/Blog-zh/issues/29#issue-1104629571)  
