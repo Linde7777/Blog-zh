@@ -7,7 +7,7 @@
 
 [CS61C 计算机系统结构](https://github.com/MuSk7777/Blog-zh/issues/28#issue-1104627242)  
 
-[CS144 计算机网络](https://github.com/Linde7777/Blog-zh/issues/33#issue-1135545503)  
+[CS144 计算机网络（更新：Git配置踩坑）](https://github.com/Linde7777/Blog-zh/issues/33#issue-1135545503)  
 
 [CS186 数据库](https://github.com/Linde7777/Blog-zh/issues/34#issue-1145005017)
 
