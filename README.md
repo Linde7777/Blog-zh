@@ -22,7 +22,7 @@
 [《How to: 如何不切实际地解决实际问题》](https://github.com/MuSk7777/Blog-zh/issues/21#issue-1071472659)  
 [《异类》](https://github.com/MuSk7777/Blog-zh/issues/20#issue-1071466420)  
 [《成长的边界》（这书名翻译得有点鸡汤味，其实内容还是可以的）](https://github.com/MuSk7777/Blog-zh/issues/19#issue-1071354136)  
-[《经济学原理》](https://github.com/MuSk7777/Blog/issues/6#issue-1040030414)  
+[有意思的《经济学原理》](https://github.com/MuSk7777/Blog/issues/6#issue-1040030414)  
 [冷知识（第3次更新)](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)   
 《三体》挺好看的，第一部有点无聊，主要是交待背景。  
 # 效率提升
