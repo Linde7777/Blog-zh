@@ -5,7 +5,7 @@
 
 [CS61B 数据结构（第1次更新）](https://github.com/MuSk7777/Blog/issues/8#issue-1044356074)  
 
-[CS61C 计算机系统结构](https://github.com/MuSk7777/Blog-zh/issues/28#issue-1104627242)  
+[CS61C 计算机系统结构（第一次更新）](https://github.com/MuSk7777/Blog-zh/issues/28#issue-1104627242)  
 
 [CS144 计算机网络（更新：Git配置踩坑）](https://github.com/Linde7777/Blog-zh/issues/33#issue-1135545503)  
 
