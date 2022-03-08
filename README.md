@@ -3,6 +3,8 @@
 
 [Git教程哪家强？](https://github.com/MuSk7777/Blog/issues/3#issue-1027924740)  
 
+[PuTTY使用踩坑](https://github.com/Linde7777/Blog-zh/issues/35#issue-1162406067)  
+
 [CS61B 数据结构（第1次更新）](https://github.com/MuSk7777/Blog/issues/8#issue-1044356074)  
 
 [CS61C 计算机系统结构（更新：环境搭建）](https://github.com/MuSk7777/Blog-zh/issues/28#issue-1104627242)  
@@ -16,6 +18,8 @@
 [如何屏蔽GeeksforGeeks的强制注册窗口?](https://github.com/MuSk7777/Blog/issues/15#issue-1053565751)  
 
 [英语学习（第1次更新）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
+
+
 
 如果你在图书馆使用电脑，你可以右手控制鼠标移动，用左手点击触控板来代替鼠标左键（两个手指点击触控板是右键），这样就不会发出声音。
 # 科学类
