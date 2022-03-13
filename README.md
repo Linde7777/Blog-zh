@@ -11,7 +11,7 @@
 
 [CS144 计算机网络（更新：Git配置踩坑）](https://github.com/Linde7777/Blog-zh/issues/33#issue-1135545503)  
 
-[CS186 数据库](https://github.com/Linde7777/Blog-zh/issues/34#issue-1145005017)
+[CS186 数据库（更新：CMU数据库）](https://github.com/Linde7777/Blog-zh/issues/34#issue-1145005017)
 
 [比较轻松的递归入门练习（第2次更新）](https://github.com/MuSk7777/Blog-zh/issues/25#issue-1081874663)    
 
