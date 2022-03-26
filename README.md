@@ -3,6 +3,8 @@
 
 [Git教程哪家强？](https://github.com/MuSk7777/Blog/issues/3#issue-1027924740)  
 
+https://www.shell.how/
+
 [用VS Code连接服务器真是爽爆了](https://github.com/Linde7777/Blog-zh/issues/37#issue-1177922411)  
 
 [PuTTY使用踩坑](https://github.com/Linde7777/Blog-zh/issues/35#issue-1162406067)  
