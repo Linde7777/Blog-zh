@@ -19,6 +19,8 @@
 
 [如何屏蔽GeeksforGeeks的强制注册窗口?](https://github.com/MuSk7777/Blog/issues/15#issue-1053565751)  
 
+[Bug记录](https://github.com/Linde7777/Blog-zh/issues/38#issue-1177934971)  
+
 [英语学习（更新：Youtube插件）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
 
 
