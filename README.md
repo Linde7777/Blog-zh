@@ -25,8 +25,6 @@ https://www.shell.how/
 
 [英语学习（更新：Youtube插件）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
 
-
-
 如果你在图书馆使用电脑，你可以右手控制鼠标移动，用左手点击触控板来代替鼠标左键（两个手指点击触控板是右键），这样就不会发出声音。
 # 科学类
 [《How to: 如何不切实际地解决实际问题》](https://github.com/MuSk7777/Blog-zh/issues/21#issue-1071472659)  
@@ -65,6 +63,8 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 
 
 # 随想
+某宝上有些卖家表面上用红包换好评，要求你把追评也写上，实际的目的可能是：让你用了一段时间后就算发现产品质量有问题，也没法给差评。  
+
 [犹豫不定的时候怎么作出选择？](https://github.com/Linde7777/Blog-zh/issues/32)  
 
 [被说烂的话题：如何长期坚持一件事，或“自律”？（第1次更新）](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
