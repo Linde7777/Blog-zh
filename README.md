@@ -25,6 +25,8 @@ https://www.shell.how/
 
 [英语学习（更新：Youtube插件）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
 
+[Adobe Acrobat DC使用踩坑](https://github.com/Linde7777/Blog-zh/issues/39#issue-1185916277)  
+
 如果你在图书馆使用电脑，你可以右手控制鼠标移动，用左手点击触控板来代替鼠标左键（两个手指点击触控板是右键），这样就不会发出声音。
 # 科学类
 [《How to: 如何不切实际地解决实际问题》](https://github.com/MuSk7777/Blog-zh/issues/21#issue-1071472659)  
