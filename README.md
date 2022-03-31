@@ -34,7 +34,7 @@ https://www.shell.how/
 [《成长的边界》（这书名翻译得有点鸡汤味，其实内容还是可以的）](https://github.com/MuSk7777/Blog-zh/issues/19#issue-1071354136)  
 [有意思的《经济学原理》](https://github.com/MuSk7777/Blog/issues/6#issue-1040030414)  
 [冷知识（第3次更新)](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)   
-《三体》挺好看的，第一部有点无聊，主要是交待背景。  
+《三体》挺好看的，第一部有点无聊，主要是交待背景，第二部很好看。  
 # 效率提升
 [Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
 [Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(这些快捷键在其他浏览器上也是一样的，VSCode也能用）  
@@ -67,7 +67,7 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 # 随想
 某宝上有些卖家表面上用红包换好评，要求你把追评也写上，实际的目的可能是：让你用了一段时间后就算发现产品质量有问题，也没法给差评。  
 
-个人认为某宝上铺天盖地的祛痘产品以及美容院的祛痘服务没有任何存在的必要，皮肤问题就应该去医院挂个皮肤科的号（脱发也是一样，归皮肤科管）  
+我觉得某宝上铺天盖地的祛痘产品以及美容院的祛痘服务没有任何存在的必要，皮肤问题就应该去医院挂个皮肤科的号（脱发也是一样，归皮肤科管）  
 
 [被说烂的话题：人总是会给自己找借口](https://github.com/Linde7777/Blog-zh/issues/40#issue-1187774886)  
 
