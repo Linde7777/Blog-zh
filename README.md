@@ -1,5 +1,5 @@
 # 编程
-[每天30分钟，3天掌握Vim的基本操作](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858)  
+[每天30分钟，3天掌握Vim的基本操作（不是标题党！）](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858)  
 
 [Git教程哪家强？](https://github.com/MuSk7777/Blog/issues/3#issue-1027924740)  
 
