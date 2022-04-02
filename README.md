@@ -51,7 +51,7 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 
 [烹饪（第二次更新）](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
 
-[如何轻松地大幅减少玩游戏的时间？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
+[如何轻松地减少玩游戏的时间？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
 
 [练习引体向上](https://github.com/MuSk7777/Blog/issues/16#issue-1057273475)  
 
