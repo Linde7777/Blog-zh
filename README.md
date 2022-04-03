@@ -28,20 +28,26 @@ https://www.shell.how/
 [Adobe Acrobat DC使用踩坑](https://github.com/Linde7777/Blog-zh/issues/39#issue-1185916277)  
 
 如果你在图书馆使用电脑，你可以右手控制鼠标移动，用左手点击触控板来代替鼠标左键（两个手指点击触控板是右键），这样就不会发出声音。
-# 科学类
-[《How to: 如何不切实际地解决实际问题》](https://github.com/MuSk7777/Blog-zh/issues/21#issue-1071472659)  
-[《异类》](https://github.com/MuSk7777/Blog-zh/issues/20#issue-1071466420)  
-[《成长的边界》（这书名翻译得有点鸡汤味，其实内容还是可以的）](https://github.com/MuSk7777/Blog-zh/issues/19#issue-1071354136)  
-[有意思的《经济学原理》](https://github.com/MuSk7777/Blog/issues/6#issue-1040030414)  
-[冷知识（第3次更新)](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)   
-《三体》挺好看的，第一部有点无聊，主要是交待背景，第二部很好看。  
-# 效率提升
-[Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
-[Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(这些快捷键在其他浏览器上也是一样的，VSCode也能用）  
-[《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
-MIUI的屏幕时间管理还挺好用的  
-番茄TODO这个APP不错  
-训记APP不错，记录每次的锻炼次数，完成一组后有组间休息倒计时。  
+
+# 随想
+某宝上有些卖家表面上用红包换好评，要求你把追评也写上，实际的目的可能是：让你用了一段时间后就算发现产品质量有问题，也没法给差评。  
+
+我觉得某宝上铺天盖地的祛痘产品以及美容院的祛痘服务没有任何存在的必要，皮肤问题就应该去医院挂个皮肤科的号（脱发也是一样，归皮肤科管）  
+
+[被说烂的话题：人总是会给自己找借口](https://github.com/Linde7777/Blog-zh/issues/40#issue-1187774886)  
+
+[犹豫不定的时候怎么作出选择？](https://github.com/Linde7777/Blog-zh/issues/32)  
+
+[被说烂的话题：如何长期坚持一件事，或“自律”？（第1次更新）](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
+
+[尽量保持友善](https://github.com/MuSk7777/Blog/issues/18#issue-1062264684)  
+
+[关于“道理我都懂，但就是不去做”的思考](https://github.com/MuSk7777/Blog-zh/issues/30#issue-1112542307)  
+
+如果将来发明出纳米医疗机器人，机器人可以直接消灭病毒（新冠、艾滋病、狂犬病等等）、细菌、癌细胞，机器人可以抵达大脑特定部位施加电刺激，将来疫苗等医疗手段都没有存在的必要。  
+
+现在的自动驾驶事故一般都是车辆摄像头识别错误引起的，如果一条高速公路上的车全是自动驾驶的车，车之间的数据可以共享，不需要摄像头识别，那应该还是比人类自己开要安全的。
+
 # 帮你踩坑  
 Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种  
 
@@ -64,24 +70,23 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 不要跳水，你有可能会撞到人，还有人跳水撞到池底截瘫了  
 
 
-# 随想
-某宝上有些卖家表面上用红包换好评，要求你把追评也写上，实际的目的可能是：让你用了一段时间后就算发现产品质量有问题，也没法给差评。  
+# 效率提升
+[Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
+[Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(这些快捷键在其他浏览器上也是一样的，VSCode也能用）  
+[《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
+MIUI的屏幕时间管理还挺好用的  
+番茄TODO这个APP不错  
+训记APP不错，记录每次的锻炼次数，完成一组后有组间休息倒计时。  
 
-我觉得某宝上铺天盖地的祛痘产品以及美容院的祛痘服务没有任何存在的必要，皮肤问题就应该去医院挂个皮肤科的号（脱发也是一样，归皮肤科管）  
 
-[被说烂的话题：人总是会给自己找借口](https://github.com/Linde7777/Blog-zh/issues/40#issue-1187774886)  
+# 科学类
+[《How to: 如何不切实际地解决实际问题》](https://github.com/MuSk7777/Blog-zh/issues/21#issue-1071472659)  
+[《异类》](https://github.com/MuSk7777/Blog-zh/issues/20#issue-1071466420)  
+[《成长的边界》（这书名翻译得有点鸡汤味，其实内容还是可以的）](https://github.com/MuSk7777/Blog-zh/issues/19#issue-1071354136)  
+[有意思的《经济学原理》](https://github.com/MuSk7777/Blog/issues/6#issue-1040030414)  
+[冷知识（第3次更新)](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)   
+《三体》挺好看的，第一部有点无聊，主要是交待背景，第二部很好看。  
 
-[犹豫不定的时候怎么作出选择？](https://github.com/Linde7777/Blog-zh/issues/32)  
-
-[被说烂的话题：如何长期坚持一件事，或“自律”？（第1次更新）](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
-
-[尽量保持友善](https://github.com/MuSk7777/Blog/issues/18#issue-1062264684)  
-
-[关于“道理我都懂，但就是不去做”的思考](https://github.com/MuSk7777/Blog-zh/issues/30#issue-1112542307)  
-
-如果将来发明出纳米医疗机器人，机器人可以直接消灭病毒（新冠、艾滋病、狂犬病等等）、细菌、癌细胞，机器人可以抵达大脑特定部位施加电刺激，将来疫苗等医疗手段都没有存在的必要。  
-
-现在的自动驾驶事故一般都是车辆摄像头识别错误引起的，如果一条高速公路上的车全是自动驾驶的车，车之间的数据可以共享，不需要摄像头识别，那应该还是比人类自己开要安全的。
 # 文学类（第3次更新）
 "We are all born originals - why is it so many of us die copies?" by Edward Young  
 
