@@ -38,11 +38,13 @@ https://www.shell.how/
 
 [犹豫不定的时候怎么作出选择？](https://github.com/Linde7777/Blog-zh/issues/32)  
 
-[被说烂的话题：如何长期坚持一件事，或“自律”？（第1次更新）](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
+[被说烂的话题：如何长期坚持一件事，或“自律”？（第2次更新）](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
 
 [尽量保持友善](https://github.com/MuSk7777/Blog/issues/18#issue-1062264684)  
 
 [关于“道理我都懂，但就是不去做”的思考](https://github.com/MuSk7777/Blog-zh/issues/30#issue-1112542307)  
+
+[如何轻松地减少玩游戏的时间？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
 
 如果将来发明出纳米医疗机器人，机器人可以直接消灭病毒（新冠、艾滋病、狂犬病等等）、细菌、癌细胞，机器人可以抵达大脑特定部位施加电刺激，将来疫苗等医疗手段都没有存在的必要。  
 
@@ -57,7 +59,7 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 
 [烹饪（第二次更新）](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
 
-[如何轻松地减少玩游戏的时间？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
+
 
 [练习引体向上](https://github.com/MuSk7777/Blog/issues/16#issue-1057273475)  
 
