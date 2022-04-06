@@ -27,6 +27,8 @@ https://www.shell.how/
 
 [Adobe Acrobat DC使用踩坑](https://github.com/Linde7777/Blog-zh/issues/39#issue-1185916277)  
 
+Intellij IDEA的Keymap可以更换成其他IDE\Editor的，点击右上角搜索图标，输入keymap。如果里面没有VS Code这一选项，要去下载VS Code Keymap插件
+
 如果你在图书馆使用电脑，你可以右手控制鼠标移动，用左手点击触控板来代替鼠标左键（两个手指点击触控板是右键），这样就不会发出声音。
 
 # 随想
