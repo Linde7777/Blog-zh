@@ -3,7 +3,7 @@
 
 [Bug记录](https://github.com/Linde7777/Blog-zh/issues/38#issue-1177934971)  
 
-[英语学习（更新：Youtube插件）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
+[英语学习（更新：Youtube频道推荐）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
 
 [Adobe Acrobat DC使用踩坑](https://github.com/Linde7777/Blog-zh/issues/39#issue-1185916277)  
 
