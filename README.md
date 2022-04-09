@@ -47,7 +47,7 @@ https://www.shell.how/
 
 [犹豫不定的时候怎么作出选择？](https://github.com/Linde7777/Blog-zh/issues/32)  
 
-[被说烂的话题：如何长期坚持一件事，或“自律”？（第2次更新）](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
+[被说烂的话题：如何长期坚持一件事，或“自律”？（更新：带着好奇心）](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
 
 [尽量保持友善](https://github.com/MuSk7777/Blog/issues/18#issue-1062264684)  
 
