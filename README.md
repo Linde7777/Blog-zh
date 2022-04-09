@@ -1,6 +1,17 @@
 # 编程
 [每天30分钟，3天掌握Vim的基本操作（不是标题党！）](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858)  
 
+[Bug记录](https://github.com/Linde7777/Blog-zh/issues/38#issue-1177934971)  
+
+[英语学习（更新：Youtube插件）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
+
+[Adobe Acrobat DC使用踩坑](https://github.com/Linde7777/Blog-zh/issues/39#issue-1185916277)  
+
+Intellij IDEA的Keymap可以更换成其他IDE\Editor的，点击右上角搜索图标，输入keymap。如果里面没有VS Code这一选项，要去下载VS Code Keymap插件  
+
+在IDEA中，`Alt+左箭头` `Alt+右箭头`可以在不同页面之间跳转。比如在同一个文件中，你目前在第10行，使用Vim的指令`:150`跳转到第150行后，可以使用`Alt+左箭头`跳转回第10行。你也可以用`Alt+箭头`在不同文件中跳转。  
+Adobe Acrobat DC也同样适用，比如你通过书签跳转到某页后，再按`Alt+左箭头`，就可以回到跳转前的页面。
+
 [Git教程哪家强？](https://github.com/MuSk7777/Blog/issues/3#issue-1027924740)  
 
 https://www.shell.how/
@@ -21,16 +32,7 @@ https://www.shell.how/
 
 [如何屏蔽GeeksforGeeks的强制注册窗口?](https://github.com/MuSk7777/Blog/issues/15#issue-1053565751)  
 
-[Bug记录](https://github.com/Linde7777/Blog-zh/issues/38#issue-1177934971)  
-
-[英语学习（更新：Youtube插件）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
-
-[Adobe Acrobat DC使用踩坑](https://github.com/Linde7777/Blog-zh/issues/39#issue-1185916277)  
-
-Intellij IDEA的Keymap可以更换成其他IDE\Editor的，点击右上角搜索图标，输入keymap。如果里面没有VS Code这一选项，要去下载VS Code Keymap插件  
-
-在IDEA中，`Alt+左箭头` `Alt+右箭头`可以在不同页面之间跳转。比如在同一个文件中，你目前在第10行，使用Vim的指令`:150`跳转到第150行后，可以使用`Alt+左箭头`跳转回第10行。你也可以用`Alt+箭头`在不同文件中跳转。  
-Adobe Acrobat DC也同样适用，比如你通过书签跳转到某页后，再按`Alt+左箭头`，就可以回到跳转前的页面。  
+  
 
 如果你在图书馆使用电脑，你可以右手控制鼠标移动，用左手点击触控板来代替鼠标左键（两个手指点击触控板是右键），这样就不会发出声音。  
 
