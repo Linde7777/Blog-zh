@@ -37,6 +37,8 @@ Adobe Acrobat DC也同样适用，比如你通过书签跳转到某页后，再�
 
 
 # 随想
+[如何轻松地减少玩游戏的时间？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
+
 在低谷的时候应该把自己当作一个冷冰冰的程序，`if(meetProblem) solve(problem);` ，只做有助于解决问题的事，而不是发泄情绪。说起来容易做起来难，我一开始用这种心态面对重大挫折，有时候还是会陷入情绪中，多实践几次后，我现在已经能够比较平静地面对挫折了。  
 
 某宝上有些卖家表面上用红包换好评，要求你把追评也写上，实际的目的可能是：让你用了一段时间后就算发现产品质量有问题，也没法给差评。  
@@ -53,8 +55,6 @@ Adobe Acrobat DC也同样适用，比如你通过书签跳转到某页后，再�
 
 [关于“道理我都懂，但就是不去做”的思考](https://github.com/MuSk7777/Blog-zh/issues/30#issue-1112542307)  
 
-[如何轻松地减少玩游戏的时间？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
-
 如果将来发明出纳米医疗机器人，机器人可以直接消灭病毒（新冠、艾滋病、狂犬病等等）、细菌、癌细胞，机器人可以抵达大脑特定部位施加电刺激，将来疫苗等医疗手段都没有存在的必要。  
 
 现在的自动驾驶事故一般都是车辆摄像头识别错误引起的，如果一条高速公路上的车全是自动驾驶的车，车之间的数据可以共享，不需要摄像头识别，那应该还是比人类自己开要安全的。
@@ -68,8 +68,6 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 
 [烹饪（第二次更新）](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
 
-
-
 [练习引体向上](https://github.com/MuSk7777/Blog/issues/16#issue-1057273475)  
 
 三只松鼠的手撕面包比百草味的更软，百草味的有点干。  
@@ -80,14 +78,12 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 不管会不会游泳，都一定要带游泳圈或者跟屁虫  
 不要跳水，你有可能会撞到人，还有人跳水撞到池底截瘫了  
 
-
 # 效率提升
 [Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
-[Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(这些快捷键在其他浏览器上也是一样的，VSCode也能用）  
+[Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(这些快捷键在其他浏览器上也是一样的，VS Code也能用）  
 [《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
-MIUI的屏幕时间管理还挺好用的  
 番茄TODO这个APP不错  
-训记APP不错，记录每次的锻炼次数，完成一组后有组间休息倒计时。  
+训记APP，记录每次的锻炼次数，完成一组后有组间休息倒计时。  
 
 
 # 科学类
