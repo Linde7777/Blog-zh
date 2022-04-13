@@ -62,9 +62,9 @@ Adobe Acrobat DC也同样适用，比如你通过书签跳转到某页后，再�
 # 帮你踩坑  
 Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种  
 
-[广州和深圳的生活](https://github.com/MuSk7777/Blog-zh/issues/31#issue-1112567734)  
+[大学生活（更新：图书馆）](https://github.com/MuSk7777/Blog-zh/issues/29#issue-1104629571)  
 
-[大学生活](https://github.com/MuSk7777/Blog-zh/issues/29#issue-1104629571)  
+[广州和深圳的生活](https://github.com/MuSk7777/Blog-zh/issues/31#issue-1112567734)  
 
 [烹饪（第二次更新）](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
 
