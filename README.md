@@ -1,6 +1,8 @@
 # 编程
 [每天30分钟，3天掌握Vim的基本操作（不是标题党！）](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858)  
 
+[How to speak(so that people want to listen)](https://github.com/Linde7777/Blog-zh/issues/41#issue-1199070428)  
+
 [Bug记录](https://github.com/Linde7777/Blog-zh/issues/38#issue-1177934971)  
 
 [英语学习（更新：Youtube频道推荐）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
