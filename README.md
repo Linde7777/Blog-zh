@@ -42,7 +42,7 @@ Adobe Acrobat DC也同样适用，比如你通过书签跳转到某页后，再�
 
 
 # 随想
-[如何轻松地减少玩游戏的时间？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
+[如何无痛地减少玩游戏的欲望？](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
 
 在低谷的时候应该把自己当作一个冷冰冰的程序，`if(meetProblem) solve(problem);` ，只做有助于解决问题的事，而不是发泄情绪。说起来容易做起来难，我一开始用这种心态面对重大挫折，有时候还是会陷入情绪中，多实践几次后，我现在已经能够比较平静地面对挫折了。  
 
