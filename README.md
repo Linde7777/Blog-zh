@@ -1,5 +1,5 @@
 # Hello
-不定期更新
+不定期更新:)
 
 # 编程
 [每天30分钟，3天掌握Vim的基本操作（不是标题党！）](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858)  
