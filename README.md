@@ -1,14 +1,13 @@
 # 编程
 [每天30分钟，3天掌握Vim的基本操作（不是标题党！）](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858)  
 
+[Debug记录（更新：Junit Test在Debug模式闪退）](https://github.com/Linde7777/Blog-zh/issues/38#issue-1177934971)  
+
 [英语学习（更新：Chrome自带字幕功能）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
 
 [公开课踩坑](https://github.com/Linde7777/Blog-zh/issues/42#issue-1206089391)  
 
 [How to speak(so that people want to listen)](https://github.com/Linde7777/Blog-zh/issues/41#issue-1199070428)  
-
-[Bug记录](https://github.com/Linde7777/Blog-zh/issues/38#issue-1177934971)  
-
 
 [Adobe Acrobat DC使用踩坑](https://github.com/Linde7777/Blog-zh/issues/39#issue-1185916277)  
 
