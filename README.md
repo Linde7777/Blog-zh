@@ -4,7 +4,7 @@
 # 编程
 [每天30分钟，3天掌握Vim的基本操作（不是标题党！）](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858)   
 
-https://pythontutor.com/c.html#mode=edit C、Java、Python代码可视化，非常好用  
+https://pythontutor.com/c.html#mode=edit 主流语言的Visualizer，非常好用  
 
 [公开课踩坑（更新：fork官方仓库）](https://github.com/Linde7777/Blog-zh/issues/42#issue-1206089391)  
 
