@@ -8,7 +8,7 @@
 
 [Debug记录（更新：用指针处理int数组）](https://github.com/Linde7777/Blog-zh/issues/38#issue-1177934971)  
 
-https://pythontutor.com/c.html#mode=edit 主流语言的Visualizer，非常好用，Debug利器  
+https://pythontutor.com/c.html#mode=edit 多种流行语言的Visualizer，非常好用，Debug利器  
 
 [公开课踩坑（更新：fork官方仓库）](https://github.com/Linde7777/Blog-zh/issues/42#issue-1206089391)  
 
