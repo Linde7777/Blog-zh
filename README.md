@@ -8,13 +8,13 @@
 
 [Debug记录（更新：用指针处理int数组）](https://github.com/Linde7777/Blog-zh/issues/38#issue-1177934971)  
 
-https://pythontutor.com/c.html#mode=edit 多种流行语言的Visualizer，非常好用，Debug利器  
+https://pythontutor.com/c.html#mode=edit 多种流行语言的Visualizer，非常好用。
 
 [公开课踩坑（更新：fork官方仓库）](https://github.com/Linde7777/Blog-zh/issues/42#issue-1206089391)  
 
 [英语学习（更新：Chrome自带字幕功能）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
 
-[How to speak(so that people want to listen)](https://github.com/Linde7777/Blog-zh/issues/41#issue-1199070428)  
+[做技术分享可能会用到的技巧：How to speak(so that people want to listen)](https://github.com/Linde7777/Blog-zh/issues/41#issue-1199070428)  
 
 [Adobe Acrobat DC使用踩坑](https://github.com/Linde7777/Blog-zh/issues/39#issue-1185916277)  
 
