@@ -88,21 +88,29 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 
 # 效率提升
 [Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
+
 [Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(这些快捷键在其他浏览器上也是一样的，VS Code也能用）  
+
 [《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
+
 番茄TODO这个APP不错  
-训记APP，记录每次的锻炼次数，完成一组后有组间休息倒计时。  
 
+训记APP，记录健身内容，完成一组后有组间休息倒计时。  
 
-# 科学类
+# 科学类书籍
 [《How to: 如何不切实际地解决实际问题》](https://github.com/MuSk7777/Blog-zh/issues/21#issue-1071472659)  
+
 [《异类》](https://github.com/MuSk7777/Blog-zh/issues/20#issue-1071466420)  
+
 [《成长的边界》（这书名翻译得有点鸡汤味，其实内容还是可以的）](https://github.com/MuSk7777/Blog-zh/issues/19#issue-1071354136)  
+
 [有意思的《经济学原理》](https://github.com/MuSk7777/Blog/issues/6#issue-1040030414)  
+
 [冷知识（第3次更新)](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)   
+
 《三体》挺好看的，第一部有点无聊，主要是交待背景，第二部很好看。  
 
-# 文学类（第3次更新）
+# 文学类书籍（第3次更新）
 "We are all born originals - why is it so many of us die copies?" by Edward Young  
 
 《霍乱时期的爱情》  
