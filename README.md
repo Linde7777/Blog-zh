@@ -18,10 +18,9 @@ https://pythontutor.com/c.html#mode=edit 多种流行语言的Visualizer，非�
 
 [Adobe Acrobat DC使用踩坑](https://github.com/Linde7777/Blog-zh/issues/39#issue-1185916277)  
 
-Intellij IDEA的Keymap可以更换成其他IDE\Editor的，点击右上角搜索图标，输入keymap。如果里面没有VS Code这一选项，要去下载VS Code Keymap插件  
+Intellij IDEA的按键绑定可以更换成其他IDE的，点击右上角搜索图标，输入keymap。如果里面没有VS Code这一选项，要去下载VS Code Keymap插件  
 
-在IDEA中，`Alt+左箭头` `Alt+右箭头`可以在不同页面之间跳转。比如在同一个文件中，你目前在第10行，使用Vim的指令`:150`跳转到第150行后，可以使用`Alt+左箭头`跳转回第10行。你也可以用`Alt+箭头`在不同文件中跳转。  
-Adobe Acrobat DC也同样适用，比如你通过书签跳转到某页后，再按`Alt+左箭头`，就可以回到跳转前的页面。
+在IDEA/Adobe Acrobat DC/Chrome中，`Alt+左箭头` `Alt+右箭头`可以在不同页面之间跳转。  
 
 [Git教程哪家强？](https://github.com/MuSk7777/Blog/issues/3#issue-1027924740)  
 
