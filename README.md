@@ -4,7 +4,7 @@
 # 编程
 [每天30分钟，3天掌握Vim的基本操作（不是标题党！）](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858) 
 
-[CS61C 计算机系统结构（更新：RISC-V插件）](https://github.com/MuSk7777/Blog-zh/issues/28#issue-1104627242)  
+[CS61C 计算机组成原理（更新：RISC-V插件）](https://github.com/MuSk7777/Blog-zh/issues/28#issue-1104627242)  
 
 [Debug记录（更新：用指针处理int数组）](https://github.com/Linde7777/Blog-zh/issues/38#issue-1177934971)  
 
