@@ -110,7 +110,7 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 
 [冷知识（第3次更新)](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)   
 
-《三体》挺好看的，第一部有点无聊，主要是交待背景，第二部很好看。  
+《三体》第一部有点无聊，主要是交待背景，第二部很好看。  
 
 # 文学类书籍
 "We are all born originals - why is it so many of us die copies?" by Edward Young  
