@@ -28,7 +28,7 @@ Intellij IDEA的按键绑定可以更换成其他IDE的，点击右上角搜索�
 
 [PuTTY使用踩坑](https://github.com/Linde7777/Blog-zh/issues/35#issue-1162406067)  
 
-[CS61B 数据结构（第1次更新）](https://github.com/MuSk7777/Blog/issues/8#issue-1044356074)  
+[CS61B 数据结构](https://github.com/MuSk7777/Blog/issues/8#issue-1044356074)  
 
 [CS144 计算机网络（更新：Git配置踩坑）](https://github.com/Linde7777/Blog-zh/issues/33#issue-1135545503)  
 
