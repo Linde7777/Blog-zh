@@ -89,9 +89,9 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 不要跳水，你有可能会撞到人，还有人跳水撞到池底截瘫了  
 
 # 效率提升
-[Chorme插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
+如果你会用Vim的话：[Chrome插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
 
-[Chorme快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(这些快捷键在其他浏览器上也是一样的，VS Code也能用）  
+[Chrome快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(这些快捷键在其他浏览器上也是一样的，VS Code也能用）  
 
 [《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
 
