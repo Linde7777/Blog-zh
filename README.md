@@ -4,6 +4,8 @@
 # 编程
 [每天30分钟，3天掌握Vim的基本操作（不是标题党！）](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858) 
 
+[CS144 计算机网络（更新：自顶向下方法）](https://github.com/Linde7777/Blog-zh/issues/33#issue-1135545503)  
+
 [CS61C 计算机组成原理（更新：RISC-V插件）](https://github.com/MuSk7777/Blog-zh/issues/28#issue-1104627242)  
 
 [Debug记录（更新：用指针处理int数组）](https://github.com/Linde7777/Blog-zh/issues/38#issue-1177934971)  
@@ -29,8 +31,6 @@ Intellij IDEA的按键绑定可以更换成其他IDE的，点击右上角搜索�
 [PuTTY使用踩坑](https://github.com/Linde7777/Blog-zh/issues/35#issue-1162406067)  
 
 [CS61B 数据结构](https://github.com/MuSk7777/Blog/issues/8#issue-1044356074)  
-
-[CS144 计算机网络（更新：自顶向下方法）](https://github.com/Linde7777/Blog-zh/issues/33#issue-1135545503)  
 
 [CS186 数据库（更新：Spring 2015）](https://github.com/Linde7777/Blog-zh/issues/34#issue-1145005017)
 
