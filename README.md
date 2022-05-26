@@ -30,7 +30,7 @@ Intellij IDEA的按键绑定可以更换成其他IDE的，点击右上角搜索�
 
 [CS61B 数据结构](https://github.com/MuSk7777/Blog/issues/8#issue-1044356074)  
 
-[CS144 计算机网络（更新：Git配置踩坑）](https://github.com/Linde7777/Blog-zh/issues/33#issue-1135545503)  
+[CS144 计算机网络（更新：自顶向下方法）](https://github.com/Linde7777/Blog-zh/issues/33#issue-1135545503)  
 
 [CS186 数据库（更新：Spring 2015）](https://github.com/Linde7777/Blog-zh/issues/34#issue-1145005017)
 
