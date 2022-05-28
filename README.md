@@ -89,6 +89,8 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 不要跳水，你有可能会撞到人，还有人跳水撞到池底截瘫了  
 
 # 效率提升
+https://bionic-reading.com/ 仿生阅读，让你读得更快，现已推出Chrome插件和文件转换器。  
+
 微软ToDo比Notion里面的Task List好用。  
 
 如果你会用Vim的话：[Chrome插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
