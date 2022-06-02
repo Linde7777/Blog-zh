@@ -1,5 +1,7 @@
-# Hello
-不定期更新:)
+# 导航
+不定期更新:)  
+[编程](https://github.com/Linde7777/Blog-zh/blob/master/README.md#%E7%BC%96%E7%A8%8B)  
+[随想]()
 
 # 编程
 [每天30分钟，3天掌握Vim的基本操作（不是标题党！）](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858) 
@@ -38,11 +40,7 @@ Intellij IDEA的按键绑定可以更换成其他IDE的，点击右上角搜索�
 
 [如何屏蔽GeeksforGeeks的强制注册窗口?](https://github.com/MuSk7777/Blog/issues/15#issue-1053565751)  
 
-  
-
 如果你在图书馆使用电脑，你可以右手控制鼠标移动，用左手点击触控板来代替鼠标左键（两个手指点击触控板是右键），这样就不会发出声音。  
-
-
 
 # 随想
 [如何无痛地减少玩游戏的欲望？（更新：开修改器刷资源）](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
