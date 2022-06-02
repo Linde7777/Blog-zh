@@ -113,9 +113,8 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 # 科学类书籍
 [《How to: 如何不切实际地解决实际问题》](https://github.com/MuSk7777/Blog-zh/issues/21#issue-1071472659)  
 
-[《异类》](https://github.com/MuSk7777/Blog-zh/issues/20#issue-1071466420) 和
-
-[《成长的边界》](https://github.com/MuSk7777/Blog-zh/issues/19#issue-1071354136)在某些方面上意见相反，值得一读，《成长的边界》这名字翻译得有点鸡汤味，其实内容还是不错的。      
+[《异类》](https://github.com/MuSk7777/Blog-zh/issues/20#issue-1071466420)和
+[《成长的边界》](https://github.com/MuSk7777/Blog-zh/issues/19#issue-1071354136)在某些方面上意见相反，互为补充。《成长的边界》这名字翻译得有点鸡汤味，其实内容还是不错的。      
 
 [有意思的《经济学原理》](https://github.com/MuSk7777/Blog/issues/6#issue-1040030414)  
 
