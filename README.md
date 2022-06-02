@@ -3,7 +3,7 @@
 [编程](https://github.com/Linde7777/Blog-zh/blob/master/README.md#%E7%BC%96%E7%A8%8B)  
 [随想](https://github.com/Linde7777/Blog-zh/blob/master/README.md#%E9%9A%8F%E6%83%B3)  
 [踩坑](https://github.com/Linde7777/Blog-zh/blob/master/README.md#%E8%B8%A9%E5%9D%91)  
-[效率提升]()  
+[效率提升](https://github.com/Linde7777/Blog-zh/blob/master/README.md#%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87)  
 [科学类书籍]()  
 [文学类书籍]()  
 
