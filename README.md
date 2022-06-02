@@ -46,6 +46,41 @@ Intellij IDEA的按键绑定可以更换成其他IDE的，点击右上角搜索�
 
 如果你在图书馆使用电脑，你可以右手控制鼠标移动，用左手点击触控板来代替鼠标左键（两个手指点击触控板是右键），这样就不会发出声音。  
 
+# 效率提升
+https://bionic-reading.com/ 仿生阅读，让你读得更快，现已推出Chrome插件和文件转换器。  
+
+微软ToDo比Notion里面的Task List好用。  
+
+如果你会用Vim的话：[Chrome插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
+
+[Chrome快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(这些快捷键在其他浏览器上也是一样的，VS Code也能用）  
+
+[《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
+
+番茄TODO是一个不错的番茄钟APP。  
+
+训记APP，记录健身内容，完成一组后有组间休息倒计时。  
+
+# 踩坑 
+[大学生活（更新：图书馆）](https://github.com/MuSk7777/Blog-zh/issues/29#issue-1104629571)  
+
+Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种  
+
+[广州和深圳的生活](https://github.com/MuSk7777/Blog-zh/issues/31#issue-1112567734)  
+
+[烹饪（第二次更新）](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
+
+[练习引体向上](https://github.com/MuSk7777/Blog/issues/16#issue-1057273475)  
+
+三只松鼠的手撕面包比百草味的更软，百草味的有点干。  
+
+看医生的时候，记得把医生说的注意事项用备忘录记下来，大脑迟早会忘。  
+
+去海边游泳要特别注意防晒，下午5点是比较合适的。不要去海滨浴场，水很浅。  
+不管会不会游泳，都一定要带游泳圈或者跟屁虫  
+不要跳水，你有可能会撞到人，还有人跳水撞到池底截瘫了  
+
+
 # 随想
 [如何无痛地减少玩游戏的欲望？（更新：开修改器刷资源）](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
 
@@ -71,39 +106,7 @@ Intellij IDEA的按键绑定可以更换成其他IDE的，点击右上角搜索�
 
 现在的自动驾驶事故一般都是车辆摄像头识别错误引起的，如果一条高速公路上的车全是自动驾驶的车，车之间的数据可以共享，不需要摄像头识别，那应该还是比人类自己开要安全的。
 
-# 踩坑 
-[大学生活（更新：图书馆）](https://github.com/MuSk7777/Blog-zh/issues/29#issue-1104629571)  
 
-Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种  
-
-[广州和深圳的生活](https://github.com/MuSk7777/Blog-zh/issues/31#issue-1112567734)  
-
-[烹饪（第二次更新）](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
-
-[练习引体向上](https://github.com/MuSk7777/Blog/issues/16#issue-1057273475)  
-
-三只松鼠的手撕面包比百草味的更软，百草味的有点干。  
-
-看医生的时候，记得把医生说的注意事项用备忘录记下来，大脑迟早会忘。  
-
-去海边游泳要特别注意防晒，下午5点是比较合适的。不要去海滨浴场，水很浅。  
-不管会不会游泳，都一定要带游泳圈或者跟屁虫  
-不要跳水，你有可能会撞到人，还有人跳水撞到池底截瘫了  
-
-# 效率提升
-https://bionic-reading.com/ 仿生阅读，让你读得更快，现已推出Chrome插件和文件转换器。  
-
-微软ToDo比Notion里面的Task List好用。  
-
-如果你会用Vim的话：[Chrome插件Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
-
-[Chrome快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(这些快捷键在其他浏览器上也是一样的，VS Code也能用）  
-
-[《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
-
-番茄TODO是一个不错的番茄钟APP。  
-
-训记APP，记录健身内容，完成一组后有组间休息倒计时。  
 
 # 科学类书籍
 [《How to: 如何不切实际地解决实际问题》](https://github.com/MuSk7777/Blog-zh/issues/21#issue-1071472659)  
