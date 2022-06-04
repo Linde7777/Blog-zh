@@ -8,13 +8,13 @@
 [文学类书籍](https://github.com/Linde7777/Blog-zh/blob/master/README.md#%E6%96%87%E5%AD%A6%E7%B1%BB%E4%B9%A6%E7%B1%8D)  
 
 # 编程
-[每天30分钟，3天掌握Vim的基本操作（不是标题党！）](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858) 
+[置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858) 
+
+[Debug记录（更新：先判断再赋值还是先赋值再判断？）](https://github.com/Linde7777/Blog-zh/issues/38#issue-1177934971)  
 
 [CS144 计算机网络（更新：自顶向下方法）](https://github.com/Linde7777/Blog-zh/issues/33#issue-1135545503)  
 
 [CS61C 计算机组成原理（更新：RISC-V插件）](https://github.com/MuSk7777/Blog-zh/issues/28#issue-1104627242)  
-
-[Debug记录（更新：用指针处理int数组）](https://github.com/Linde7777/Blog-zh/issues/38#issue-1177934971)  
 
 https://pythontutor.com/c.html#mode=edit 多种流行语言的Visualizer，非常好用。
 
@@ -84,7 +84,7 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 
 
 # 随想
-[如何无痛地减少玩游戏的欲望？（更新：开修改器刷资源）](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
+[置顶-如何无痛地减少玩游戏的欲望？（更新：开修改器刷资源）](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
 
 [学习一门技能可以让你在观察事物时多一个视角](https://github.com/Linde7777/Blog-zh/issues/45#issue-1259466876)  
 
