@@ -3,11 +3,11 @@
 每月至少更新一次:)
 
 # 编程
-[置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](docs\articles\LearnVim.md) 
+[置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](docs\articles\coding\LearnVim.md) 
 
-[Debug记录（更新：先判断再赋值还是先赋值再判断？）](docs\articles\DebugRecord.md)  
+[Debug记录（更新：先判断再赋值还是先赋值再判断？）](docs\articles\coding\DebugRecord.md)  
 
-[CS144 计算机网络（更新：自顶向下方法）](docs\articles\CS144.md)  
+[CS144 计算机网络（更新：自顶向下方法）](docs\articles\coding\CS144.md)  
 
 [CS61C 计算机组成原理（更新：RISC-V插件）]()  
 
