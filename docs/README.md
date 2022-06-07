@@ -15,29 +15,29 @@ https://pythontutor.com/c.html#mode=edit 多种流行语言的Visualizer
 
 [公开课踩坑（更新：fork官方仓库）](docs\articles\coding\OpenCourse.md)  
 
-[英语学习（更新：Chrome自带字幕功能）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
+[英语学习（更新：Chrome自带字幕功能）](docs\articles\coding\LearnEnglish.md)  
 
-[做技术分享可能会用到的技巧：How to speak(so that people want to listen)](https://github.com/Linde7777/Blog-zh/issues/41#issue-1199070428)  
+[做技术分享可能会用到的技巧：How to speak(so that people want to listen)](https://languid-family-6e1.notion.site/How-to-speak-37070766b849475881b26c0bfbbc5a73)  
 
-[Adobe Acrobat DC使用踩坑](https://github.com/Linde7777/Blog-zh/issues/39#issue-1185916277)  
+[Adobe Acrobat DC使用踩坑](docs\articles\coding\Adobe.md)  
 
 Intellij IDEA的按键绑定可以更换成其他IDE的，点击右上角搜索图标，输入keymap。如果里面没有VS Code这一选项，要去下载VS Code Keymap插件  
 
 在IDEA/Adobe Acrobat DC/Chrome中，`Alt+左箭头` `Alt+右箭头`可以在不同页面之间跳转。  
 
-[Git教程哪家强？](https://github.com/MuSk7777/Blog/issues/3#issue-1027924740)  
+[Git教程哪家强？](docs\articles\coding\LearnGit.md)  
 
-[用VS Code连接服务器真是爽爆了](https://github.com/Linde7777/Blog-zh/issues/37#issue-1177922411)  
+[用VS Code连接服务器真是爽爆了](docs\articles\coding\VSCodeConnectServer.md)  
 
-[PuTTY使用踩坑](https://github.com/Linde7777/Blog-zh/issues/35#issue-1162406067)  
+[PuTTY使用踩坑](docs\articles\coding\Putty.md)  
 
-[CS61B 数据结构](https://github.com/MuSk7777/Blog/issues/8#issue-1044356074)  
+[CS61B 数据结构](docs\articles\coding\CS61B.md)  
 
-[CS186 数据库（更新：Spring 2015）](https://github.com/Linde7777/Blog-zh/issues/34#issue-1145005017)
+[CS186 数据库（更新：Spring 2015）](docs\articles\coding\CS186.md)
 
-[比较轻松的递归入门练习（第2次更新）](https://github.com/MuSk7777/Blog-zh/issues/25#issue-1081874663)    
+[比较轻松的递归入门练习（第2次更新）](docs\articles\coding\Recursive.md)    
 
-[如何屏蔽GeeksforGeeks的强制注册窗口?](https://github.com/MuSk7777/Blog/issues/15#issue-1053565751)  
+[如何屏蔽GeeksforGeeks的强制注册窗口?](docs\articles\coding\GeeksforGeeks.md)  
 
 如果你在图书馆使用电脑，你可以右手控制鼠标移动，用左手点击触控板来代替鼠标左键（两个手指点击触控板是右键），这样就不会发出声音。  
 
