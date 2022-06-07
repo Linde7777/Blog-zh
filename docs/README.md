@@ -9,11 +9,11 @@
 
 [CS144 计算机网络（更新：自顶向下方法）](docs\articles\coding\CS144.md)  
 
-[CS61C 计算机组成原理（更新：RISC-V插件）]()  
+[CS61C 计算机组成原理（更新：RISC-V插件）](docs\articles\coding\CS61C.md)  
 
-https://pythontutor.com/c.html#mode=edit 多种流行语言的Visualizer，非常好用。
+https://pythontutor.com/c.html#mode=edit 多种流行语言的Visualizer
 
-[公开课踩坑（更新：fork官方仓库）](https://github.com/Linde7777/Blog-zh/issues/42#issue-1206089391)  
+[公开课踩坑（更新：fork官方仓库）](docs\articles\coding\OpenCourse.md)  
 
 [英语学习（更新：Chrome自带字幕功能）](https://github.com/MuSk7777/Blog/issues/12#issue-1050962972)  
 
