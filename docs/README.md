@@ -3,41 +3,41 @@
 每月至少更新一次:)
 
 # 编程
-[置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](docs\articles\coding\LearnVim.md) 
+[置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles\coding\LearnVim.md) 
 
-[Debug记录（更新：先判断再赋值还是先赋值再判断？）](docs\articles\coding\DebugRecord.md)  
+[Debug记录（更新：先判断再赋值还是先赋值再判断？）](articles\coding\DebugRecord.md)  
 
-[CS144 计算机网络（更新：自顶向下方法）](docs\articles\coding\CS144.md)  
+[CS144 计算机网络（更新：自顶向下方法）](articles\coding\CS144.md)  
 
-[CS61C 计算机组成原理（更新：RISC-V插件）](docs\articles\coding\CS61C.md)  
+[CS61C 计算机组成原理（更新：RISC-V插件）](articles\coding\CS61C.md)  
 
 https://pythontutor.com/c.html#mode=edit 多种流行语言的Visualizer
 
-[公开课踩坑（更新：fork官方仓库）](docs\articles\coding\OpenCourse.md)  
+[公开课踩坑（更新：fork官方仓库）](articles\coding\OpenCourse.md)  
 
-[英语学习（更新：Chrome自带字幕功能）](docs\articles\coding\LearnEnglish.md)  
+[英语学习（更新：Chrome自带字幕功能）](articles\coding\LearnEnglish.md)  
 
 [做技术分享可能会用到的技巧：How to speak(so that people want to listen)](https://languid-family-6e1.notion.site/How-to-speak-37070766b849475881b26c0bfbbc5a73)  
 
-[Adobe Acrobat DC使用踩坑](docs\articles\coding\Adobe.md)  
+[Adobe Acrobat DC使用踩坑](articles\coding\Adobe.md)  
 
 Intellij IDEA的按键绑定可以更换成其他IDE的，点击右上角搜索图标，输入keymap。如果里面没有VS Code这一选项，要去下载VS Code Keymap插件  
 
 在IDEA/Adobe Acrobat DC/Chrome中，`Alt+左箭头` `Alt+右箭头`可以在不同页面之间跳转。  
 
-[Git教程哪家强？](docs\articles\coding\LearnGit.md)  
+[Git教程哪家强？](articles\coding\LearnGit.md)  
 
-[用VS Code连接服务器真是爽爆了](docs\articles\coding\VSCodeConnectServer.md)  
+[用VS Code连接服务器真是爽爆了](articles\coding\VSCodeConnectServer.md)  
 
-[PuTTY使用踩坑](docs\articles\coding\Putty.md)  
+[PuTTY使用踩坑](articles\coding\Putty.md)  
 
-[CS61B 数据结构](docs\articles\coding\CS61B.md)  
+[CS61B 数据结构](articles\coding\CS61B.md)  
 
-[CS186 数据库（更新：Spring 2015）](docs\articles\coding\CS186.md)
+[CS186 数据库（更新：Spring 2015）](articles\coding\CS186.md)
 
-[比较轻松的递归入门练习（第2次更新）](docs\articles\coding\Recursive.md)    
+[比较轻松的递归入门练习（第2次更新）](articles\coding\Recursive.md)    
 
-[如何屏蔽GeeksforGeeks的强制注册窗口?](docs\articles\coding\GeeksforGeeks.md)  
+[如何屏蔽GeeksforGeeks的强制注册窗口?](articles\coding\GeeksforGeeks.md)  
 
 如果你在图书馆使用电脑，你可以右手控制鼠标移动，用左手点击触控板来代替鼠标左键（两个手指点击触控板是右键），这样就不会发出声音。  
 
@@ -67,7 +67,7 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 
 [烹饪（第二次更新）](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
 
-[练习引体向上](https://github.com/MuSk7777/Blog/issues/16#issue-1057273475)  
+做引体向上，抓杆的时候，用手心握杆容易起茧子，把杆子靠近指跟可以减少老茧的产生，不过更费力。建议买个手套。
 
 三只松鼠的手撕面包比百草味的更软，百草味的有点干。  
 
