@@ -1,14 +1,15 @@
 # 哈喽
-除了置顶文章外，最新发布的文章会放在最上面:)
+除了置顶文章外，最新发布的文章会放在最上面  
+每月至少更新一次:)
 
 # 编程
-[置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](LearnVim.md) 
+[置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](docs\articles\LearnVim.md) 
 
-[Debug记录（更新：先判断再赋值还是先赋值再判断？）](https://github.com/Linde7777/Blog-zh/issues/38#issue-1177934971)  
+[Debug记录（更新：先判断再赋值还是先赋值再判断？）](docs\articles\DebugRecord.md)  
 
-[CS144 计算机网络（更新：自顶向下方法）](https://github.com/Linde7777/Blog-zh/issues/33#issue-1135545503)  
+[CS144 计算机网络（更新：自顶向下方法）](docs\articles\CS144.md)  
 
-[CS61C 计算机组成原理（更新：RISC-V插件）](https://github.com/MuSk7777/Blog-zh/issues/28#issue-1104627242)  
+[CS61C 计算机组成原理（更新：RISC-V插件）]()  
 
 https://pythontutor.com/c.html#mode=edit 多种流行语言的Visualizer，非常好用。
 
