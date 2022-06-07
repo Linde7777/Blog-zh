@@ -50,7 +50,7 @@ https://bionic-reading.com/ 仿生阅读，让你读得更快，现已推出Chro
 
 [Chrome快捷键](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts)(这些快捷键在其他浏览器上也是一样的，VS Code也能用）  
 
-[《软技能：代码之外的生存指南》效率提升部分](https://github.com/MuSk7777/Blog/issues/7#issue-1044350823)  
+[《软技能：代码之外的生存指南》效率提升部分](articles\efficiency\SoftSkill.md)  
 
 番茄TODO是一个不错的番茄钟APP。  
 
@@ -59,13 +59,13 @@ https://bionic-reading.com/ 仿生阅读，让你读得更快，现已推出Chro
 # 踩坑 
 如果你的皮带有点宽松，可以尝试从皮带头那一侧剪短一部分（前提是你的皮带头是可拆卸的），而不是再多打一个孔。  
 
-[大学生活（更新：图书馆）](https://github.com/MuSk7777/Blog-zh/issues/29#issue-1104629571)  
+[大学生活（更新：图书馆）](articles\experiences\CollegeLife.md)  
 
 Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种  
 
-[广州和深圳的生活](https://github.com/MuSk7777/Blog-zh/issues/31#issue-1112567734)  
+[广州和深圳的生活](articles\experiences\LifeInGZandSZ.md)  
 
-[烹饪（第二次更新）](https://github.com/MuSk7777/Blog/issues/11#issue-1049538543)  
+[烹饪（第二次更新）](articles\experiences\Cooking.md)  
 
 做引体向上，抓杆的时候，用手心握杆容易起茧子，把杆子靠近指跟可以减少老茧的产生，不过更费力。建议买个手套。
 
