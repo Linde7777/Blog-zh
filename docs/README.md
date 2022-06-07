@@ -79,9 +79,9 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 
 
 # 随想
-[置顶-如何无痛地减少玩游戏的欲望？（更新：开修改器刷资源）](https://github.com/MuSk7777/Blog/issues/13#issue-1052533161)  
+[置顶-如何无痛地减少玩游戏的欲望？（更新：开修改器刷资源）](articles\thinking\QuitGame.md)  
 
-[学习一门技能可以让你在观察事物时多一个视角](https://github.com/Linde7777/Blog-zh/issues/45#issue-1259466876)  
+[学习一门技能可以让你在观察事物时多一个视角](articles\thinking\LearnSkill.md)  
 
 看了一段TED演讲，主题是为什么要保持乐观？因为相比于保持悲观，保持乐观起码能让你尝试去解决问题。问题是无穷无尽的，一个问题的解决方案通常会引发另一个问题，比如燃气机的发明解决了生产力不足的问题，但是又产生了气候变暖的问题。  
 
@@ -91,13 +91,13 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 
 我觉得某宝上铺天盖地的祛痘产品以及美容院的祛痘服务没有任何存在的必要，皮肤问题就应该去医院挂个皮肤科的号（脱发也是一样，归皮肤科管）  
 
-[被说烂的话题：人总是会给自己找借口](https://github.com/Linde7777/Blog-zh/issues/40#issue-1187774886)  
+[被说烂的话题：人总是会给自己找借口](articles\thinking\Excuse.md)  
 
-[犹豫不定的时候怎么作出选择？](https://github.com/Linde7777/Blog-zh/issues/32)  
+[犹豫不定的时候怎么作出选择？](articles\thinking\MakeChoice.md)  
 
-[被说烂的话题：如何长期坚持一件事，或“自律”？（更新：带着好奇心）](https://github.com/MuSk7777/Blog/issues/17#issue-1059306027)  
+[被说烂的话题：如何长期坚持一件事，或“自律”？（更新：带着好奇心）](articles\thinking\Discipline.md)  
 
-[尽量保持友善](https://github.com/MuSk7777/Blog/issues/18#issue-1062264684)  
+[尽量保持友善](articles\thinking\BeKind.md)  
 
 
 如果将来发明出纳米医疗机器人，机器人可以直接消灭病毒（新冠、艾滋病、狂犬病等等）、细菌、癌细胞，机器人可以抵达大脑特定部位施加电刺激，将来疫苗等医疗手段都没有存在的必要。  
@@ -107,14 +107,14 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 
 
 # 科学类书籍
-[《How to: 如何不切实际地解决实际问题》](https://github.com/MuSk7777/Blog-zh/issues/21#issue-1071472659)  
+[《How to: 如何不切实际地解决实际问题》](articles\science\HowTo.md)  
 
-[《异类》](https://github.com/MuSk7777/Blog-zh/issues/20#issue-1071466420)和
-[《成长的边界》](https://github.com/MuSk7777/Blog-zh/issues/19#issue-1071354136)在某些方面上意见相反，互为补充。《成长的边界》这名字翻译得有点鸡汤味，其实内容还是不错的。      
+[《异类》](articles\science\Outlier.md)和
+[《成长的边界》](articles\science\Border.md)在某些方面上意见相反，互为补充。《成长的边界》这名字翻译得有点鸡汤味，其实内容还是不错的。      
 
-[有意思的《经济学原理》](https://github.com/MuSk7777/Blog/issues/6#issue-1040030414)  
+[有意思的《经济学原理》](articles\science\Economic.md)  
 
-[冷知识（第3次更新)](https://github.com/MuSk7777/Blog/issues/10#issue-1046704898)   
+[冷知识（第3次更新)](articles\science\ColdKnowledge.md)   
 
 《三体》第一部有点无聊，主要是交待背景，第二部很好看。  
 
