@@ -1,6 +1,5 @@
 # 温馨提示
-请在 https://linde7777.github.io/Blog-zh/ 阅读。
-以后都会在这里面更新:)  
+请在 https://linde7777.github.io/Blog-zh/ 阅读，以后都会在这里面更新:)  
 
 下面是旧版内容：
 # 导航
