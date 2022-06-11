@@ -3,7 +3,7 @@ Chrome自带的字幕功能：Settings->Advanced->Accessibility->Live Caption，
 
 Youtube按C键可以隐藏字幕，方便对课件截屏。
 
-[沙拉查词](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg)Chorme内置划词插件，比欧路词典好用，还支持Anki自动制卡。  
+[沙拉查词](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg)Chrome内置划词插件，比欧路词典好用，还支持Anki自动制卡。  
 
 [Language Reactor](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm?utm_source=chrome-ntp-icon), 根据你的词汇量自动高亮单词（好像没啥用，不能自动显示高亮单词的释义）  
 功能：可以通过快捷键在各个句子之间切换、重复播放一句话、智能暂停、自动隐藏Youtube状态栏。
