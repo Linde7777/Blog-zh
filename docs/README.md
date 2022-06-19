@@ -103,7 +103,7 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 现在的自动驾驶事故一般都是车辆摄像头识别错误引起的，如果一条高速公路上的车全是自动驾驶的车，车之间的数据可以共享，不需要摄像头识别，那应该还是比人类自己开要安全的。
 
 
-# 科学类书籍
+# 科学
 [《How to: 如何不切实际地解决实际问题》](articles\science\HowTo.md)  
 
 [《异类》](articles\science\Outlier.md)和
@@ -115,7 +115,7 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 
 《三体》第一部有点无聊，主要是交待背景，第二部很好看。  
 
-# 文学类书籍
+# 文学
 ![Carl_Sagan](https://user-images.githubusercontent.com/69742577/174483914-1f309ebf-7b37-4641-ac3f-7583dc4c9be9.jpg)
 
 "We are all born originals - why is it so many of us die copies?" by Edward Young  
