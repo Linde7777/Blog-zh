@@ -5,8 +5,8 @@
 [效率提升](https://github.com/Linde7777/Blog-zh/blob/master/README.md#%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87)  
 [踩坑](https://github.com/Linde7777/Blog-zh/blob/master/README.md#%E8%B8%A9%E5%9D%91)  
 [随想](https://github.com/Linde7777/Blog-zh/blob/master/README.md#%E9%9A%8F%E6%83%B3)  
-[科学](https://github.com/Linde7777/Blog-zh/blob/master/README.md#%E7%A7%91%E5%AD%A6%E7%B1%BB%E4%B9%A6%E7%B1%8D)  
-[文学](https://github.com/Linde7777/Blog-zh/blob/master/README.md#%E6%96%87%E5%AD%A6%E7%B1%BB%E4%B9%A6%E7%B1%8D)  
+[科学](https://github.com/Linde7777/Blog-zh/blob/master/README.md#%E7%A7%91%E5%AD%A6)
+[文学]()  
 
 # 编程
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](https://github.com/MuSk7777/Blog/issues/1#issue-1027533858) 
