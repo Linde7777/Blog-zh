@@ -126,6 +126,8 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 《三体》第一部有点无聊，主要是交待背景，第二部很好看。  
 
 # 文学类书籍
+![Carl_Sagan](https://user-images.githubusercontent.com/69742577/174483914-1f309ebf-7b37-4641-ac3f-7583dc4c9be9.jpg)
+
 "We are all born originals - why is it so many of us die copies?" by Edward Young  
 
 《霍乱时期的爱情》  
