@@ -18,9 +18,9 @@ Youtube按C键可以隐藏字幕，方便对课件截屏。
 
 
 # Youtube频道推荐
-[Mustard](https://www.youtube.com/c/MustardChannel) 介绍历史上有意思的载具：“里海怪物”，装了6台喷气发动机的超音速轰炸机， 力大砖飞的米格25 
-[Talk at Google](https://www.youtube.com/c/talksatgoogle) 人物访谈：演员、科学家、脱口秀演员都有  
+[Mustard](https://www.youtube.com/c/MustardChannel) 介绍历史上有意思的载具：“里海怪物”，装了6台喷气发动机的超音速轰炸机， 力大砖飞的米格25   
+[Talk at Google](https://www.youtube.com/c/talksatgoogle) 人物访谈：演员、科学家、脱口秀演员都有   
 [SmarterEveryDay](https://www.youtube.com/c/smartereveryday) 有趣的科普视频：海岸警卫队的Z字搜救法，大名鼎鼎的魔术师Houdini是怎么死的  
-[Vsauce](https://www.youtube.com/c/vsauce1) 科普
-[MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw) F-22的飞行控制， 如何做一个演讲，线性代数，算法
-[Harvard Business School](https://www.youtube.com/user/HarvardBSchool) 推荐[Take a Seat in the Harvard MBA Case Classroom](https://www.youtube.com/watch?v=p7iwXvBnbIE&t=336s&ab_channel=HarvardBusinessSchool)，看得我都想去读了
+[Vsauce](https://www.youtube.com/c/vsauce1) 科普  
+[MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw) F-22的飞行控制， 如何做一个演讲，线性代数，算法  
+[Harvard Business School](https://www.youtube.com/user/HarvardBSchool) 推荐[Take a Seat in the Harvard MBA Case Classroom](https://www.youtube.com/watch?v=p7iwXvBnbIE&t=336s&ab_channel=HarvardBusinessSchool)，看得我都想去读了  
