@@ -1,12 +1,12 @@
 ### 先判断再赋值还是先赋值再判断？
 ```
-            for (int i = 0; i < k; i++) {
-                if (lastNode == null) {
-                    return dummy.next;
-                }
-                lastNode = lastNode.next;
-            }
-            ListNode next = lastNode.next;
+for (int i = 0; i < k; i++) {
+    if (lastNode == null) {
+         return dummy.next;
+    }
+    lastNode = lastNode.next;
+}
+ListNode next = lastNode.next;
 ```
 这是[Reverse Nodes in k-Group](https://leetcode.cn/problems/reverse-nodes-in-k-group/)中的一个问题。
 这样写会导致```ListNode next=lastNode.next```出错，因为lastNode可能为null，null.next是非法的。
