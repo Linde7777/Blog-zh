@@ -84,7 +84,7 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 # 随想
 [置顶-如何无痛地戒游戏？（更新：开修改器刷资源）](articles\thinking\QuitGame.md)  
 
-[情绪训练控制](articles\thinking\EmotionControl.md)  
+[情绪控制训练](articles\thinking\EmotionControl.md)  
 
 人类吃单一食物多了会吃腻，有没有可能是自然选择筛选下来的结果？如果某个人类吃东西不会吃腻，而他吃的食物有微量毒性，长期吃下来这个人类很可能会被淘汰掉。之前我吃孜然鸡肉饭是因为孜然味闻起来很香，吃了五次之后就闻不到孜然味了。  
 
