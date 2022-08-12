@@ -5,6 +5,8 @@
 # 编程
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles/coding/LearnVim.md) 
 
+[英语学习（更新：Netflix推荐）](articles\coding\LearnEnglish.md)  
+
 [Debug记录（更新：先判断再赋值还是先赋值再判断？）](articles\coding\DebugRecord.md)  
 
 [CS144 计算机网络（更新：自顶向下方法）](articles\coding\CS144.md)  
@@ -14,8 +16,6 @@
 https://pythontutor.com/c.html#mode=edit 多种流行语言的Visualizer
 
 [公开课踩坑（更新：fork官方仓库）](articles\coding\OpenCourse.md)  
-
-[英语学习（更新：Chrome自带字幕功能）](articles\coding\LearnEnglish.md)  
 
 [做技术分享可能会用到的技巧：How to speak(so that people want to listen)](https://languid-family-6e1.notion.site/How-to-speak-37070766b849475881b26c0bfbbc5a73)  
 
