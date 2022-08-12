@@ -17,7 +17,9 @@ Youtube按C键可以隐藏字幕，方便对课件截屏。
 [语法检查插件Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)    
  
 # Netflix推荐
-House of Cards 纸牌屋，S1E1的前十分钟我就收集了很多句子。  
+House of Cards 纸牌屋，有很多不错的句子，比如：  
+"She is as tough a two-dollar steak"  
+"I never make such big decisions so long after sunset and so far from dawn"  
 
 # Youtube推荐
 [Tom Scott](https://www.youtube.com/c/TomScottGo)科普  
