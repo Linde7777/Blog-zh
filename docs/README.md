@@ -5,9 +5,9 @@
 # 编程
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles/coding/LearnVim.md) 
 
-[英语学习（更新：Netflix推荐）](articles\coding\LearnEnglish.md)  
+[Debug记录（更新：画蛇添足两则）](articles\coding\DebugRecord.md)  
 
-[Debug记录（更新：先判断再赋值还是先赋值再判断？）](articles\coding\DebugRecord.md)  
+[英语学习（更新：Netflix推荐）](articles\coding\LearnEnglish.md)  
 
 [CS144 计算机网络（更新：自顶向下方法）](articles\coding\CS144.md)  
 

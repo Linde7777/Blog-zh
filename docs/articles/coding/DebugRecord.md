@@ -1,3 +1,59 @@
+### 画蛇添足
+
+```
+public class AcceleratingSawToothGenerator implements Generator {
+    private int state;
+    private int period;
+    private final double factor;
+    private boolean firstRun = true;
+
+    @Override
+    public double next() {
+        state = (state + 1);
+        return normalize(state, factor);
+    }
+
+    private double normalize(int state, double factor) {
+        if (state > this.period - 1) {
+            state = state % this.period;
+            this.period = (int) (this.period * factor);
+        }
+
+        ......
+
+        return (state / magnification) - offset;
+    }
+
+}
+```
+Debug的时候发现明明在```state = state % this.period```这一步把state设置为0，但走到```return (state / magnification) - offset;```这一步的时候发现state居然又变成了201，最后发现这个state是形参，不是this.state，state明明就在这个类里面，我还要给这个函数传入state这个参数，完全没必要。  
+
+
+### 画蛇添足
+```
+public class SeamCarver {
+    private Picture picture;
+    private int width;
+    private int height;
+
+    public SeamCarver(Picture picture){
+      this.picture=picture;
+      this.width=picture.width();
+      this.height=picture.height();
+    }
+
+    public int width(){
+      return this.width;
+    }
+
+    public int height(){
+      return this.height;
+    }
+
+}
+```
+width和height是picture的属性，把它们放在一起完全没必要。当初这么搞，是因为我觉得这样能节省点开销，直接存储width和height的值，不用每次都要调用picture.width()，害。这样做还导致了另一个问题：在后面的功能开发中，picture的width和height都发生了变化，但width()和height()里面的this.width和this.height都是旧的值，一调用就出bug。  
+
 ### 先判断再赋值还是先赋值再判断？
 ```
 for (int i = 0; i < k; i++) {

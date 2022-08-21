@@ -7,7 +7,7 @@ Youtube按C键可以隐藏字幕，方便对课件截屏。
 
 [Language Reactor](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm?utm_source=chrome-ntp-icon), 根据你的词汇量自动高亮单词（好像没啥用，不能自动显示高亮单词的释义）  
 功能：可以通过快捷键在各个句子之间切换、重复播放一句话、智能暂停、自动隐藏Youtube状态栏。
-**2022/8/10更新：**这个插件可以自动模糊中文翻译，当你遇见了“单词都认识，就是不知道意思”的时候，把鼠标移到经过模糊处理的字幕上，就会显示出中文翻译，比如《绝命毒师》里面的cheese eater 的意思是“线人”  
+**2022/8/10更新：**这个插件可以模糊中文字幕，当你遇见了“单词都认识，就是不知道意思”的时候，把鼠标移到经过模糊处理的字幕上，就会显示出中文翻译，比如《绝命毒师》里面的cheese eater 的意思是“线人”。点击设置里面的"Hide subtitles" 就可以进行设置。    
 缺点：经常报错    
 
 [Language Learning with Netflix & YouTube](https://chrome.google.com/webstore/detail/language-learning-with-ne/bekopgepchoeepdmokgkpkfhegkeohbl?utm_source=chrome-ntp-icon)跟上一个插件差不多。  
@@ -20,6 +20,7 @@ Youtube按C键可以隐藏字幕，方便对课件截屏。
 House of Cards 纸牌屋，有很多不错的句子，比如：  
 "She is as tough a two-dollar steak"  
 "I never make such big decisions so long after sunset and so far from dawn"  
+"Money is the McMansion in Sarasota that starts falling apart after ten years; Power is the old stone building that stands for centuries. I cannot respect someone who doesn't see the difference."  
 
 # Youtube推荐
 [Tom Scott](https://www.youtube.com/c/TomScottGo)科普  
