@@ -3,7 +3,7 @@
 15年版本的Homework虽然公开了，但是没有答案，不建议学习。  
 
 # RISC-V插件
-VS Code有RISC-V插件，作者是hm，比课程官方给的网页版模拟器和JAR包要好用，强烈推荐。
+先用VS Code连接你的虚拟机或服务器，教程：https://youtu.be/7kum46SFIaY?t=59，然后用VS Code的RISC-V插件，作者是hm，比课程官方给的网页版模拟器和JAR包要好用，强烈推荐。
 
 在Run and Debug之后，会弹出新的Terminal
 ![image](https://user-images.githubusercontent.com/69742577/164710035-d3f72386-be29-4554-9c17-789ee9d41bac.png)
