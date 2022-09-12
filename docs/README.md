@@ -5,6 +5,8 @@
 # 编程
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles/coding/LearnVim.md) 
 
+[用VS Code连接服务器或本地虚拟机的简短教程](articles\coding\VSCodeConnectServer.md)  
+
 [Debug记录（更新：画蛇添足两则）](articles\coding\DebugRecord.md)  
 
 [英语学习（更新：Netflix推荐）](articles\coding\LearnEnglish.md)  
@@ -26,8 +28,6 @@ Intellij IDEA的按键绑定可以更换成其他IDE的，点击右上角搜索�
 在IDEA/Adobe Acrobat DC/Chrome中，`Alt+左箭头` `Alt+右箭头`可以在不同页面之间跳转。  
 
 [Git教程哪家强？](articles\coding\LearnGit.md)  
-
-[用VS Code连接服务器或本地虚拟机的简短教程](articles\coding\VSCodeConnectServer.md)  
 
 [PuTTY使用踩坑](articles\coding\Putty.md)  
 
