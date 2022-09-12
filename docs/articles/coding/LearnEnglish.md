@@ -17,10 +17,17 @@ Youtube按C键可以隐藏字幕，方便对课件截屏。
 [语法检查插件Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)    
  
 # Netflix推荐
-House of Cards 纸牌屋，有很多不错的句子，比如：  
+### House of Cards 纸牌屋  
+有很多不错的句子，比如：  
 "She is as tough a two-dollar steak"  
 "I never make such big decisions so long after sunset and so far from dawn"  
 "Money is the McMansion in Sarasota that starts falling apart after ten years; Power is the old stone building that stands for centuries. I cannot respect someone who doesn't see the difference."  
+但是里面的人说话太快，我得看一会停一会，遂放弃。  
+
+### Breaking Bad 绝命毒师
+第一季有点无聊，第二季开始有意思了，特别是律师Saul Goodman出场后，这人非常骚，由此还引出了另一个剧 Better Call Saul 风骚律师。  
+和纸牌屋相比没什么句子可以摘抄学习，但很适合练习听力。  
+
 
 # Youtube推荐
 [Tom Scott](https://www.youtube.com/c/TomScottGo)科普  
