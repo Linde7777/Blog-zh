@@ -5,11 +5,11 @@
 # 编程
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles/coding/LearnVim.md) 
 
+[英语学习（更新：绝命毒师）](articles\coding\LearnEnglish.md)  
+
 [用VS Code连接服务器或本地虚拟机的简短教程](articles\coding\VSCodeConnectServer.md)  
 
 [Debug记录（更新：画蛇添足两则）](articles\coding\DebugRecord.md)  
-
-[英语学习（更新：Netflix推荐）](articles\coding\LearnEnglish.md)  
 
 [CS144 计算机网络（更新：自顶向下方法）](articles\coding\CS144.md)  
 

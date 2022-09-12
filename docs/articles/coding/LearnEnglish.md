@@ -28,6 +28,9 @@ Youtube按C键可以隐藏字幕，方便对课件截屏。
 第一季有点无聊，第二季开始有意思了，特别是律师Saul Goodman出场后，这人非常骚，由此还引出了另一个剧 Better Call Saul 风骚律师。  
 和纸牌屋相比没什么句子可以摘抄学习，但很适合练习听力。  
 
+### Arcane 双城之战
+英雄联盟的动画剧集，还行吧，可以练习听力。  
+
 
 # Youtube推荐
 [Tom Scott](https://www.youtube.com/c/TomScottGo)科普  
