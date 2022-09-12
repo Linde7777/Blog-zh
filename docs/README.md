@@ -27,7 +27,7 @@ Intellij IDEA的按键绑定可以更换成其他IDE的，点击右上角搜索�
 
 [Git教程哪家强？](articles\coding\LearnGit.md)  
 
-[用VS Code连接服务器真是爽爆了](articles\coding\VSCodeConnectServer.md)  
+[用VS Code连接服务器或本地虚拟机的简短教程](articles\coding\VSCodeConnectServer.md)  
 
 [PuTTY使用踩坑](articles\coding\Putty.md)  
 
