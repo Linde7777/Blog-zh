@@ -5,6 +5,10 @@
 # 编程
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles/coding/LearnVim.md) 
 
+[为什么RISC-V中的SB-format不叫B-format，UJ-format不叫J-format？](articles/coding/RISC-VFormat.md)  
+
+[英文原著阅读工具](articles/coding/ReadEnglish.md)  
+
 有个比喻可以用来说明为什么不存在又快又大的cache：你的书架越大，越难定位一本书的位置。但多找几个人多几双眼睛，就能解决这个问题，那为什么计算机没有类似的设计？根据莎莎的解答，原因是：贵。  
 
 [英语学习（更新：绝命毒师）](articles\coding\LearnEnglish.md)  
