@@ -37,7 +37,7 @@ Intellij IDEA的按键绑定可以更换成其他IDE的，点击右上角搜索�
 
 [Git教程哪家强？](articles\coding\LearnGit.md)  
 
-[PuTTY使用踩坑](articles\coding\Putty.md)  
+[PuTTY使用踩坑（如果不是被逼的，别用这玩意！）](articles\coding\Putty.md)  
 
 [CS61B 数据结构](articles\coding\CS61B.md)  
 
