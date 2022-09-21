@@ -5,6 +5,8 @@
 # 编程
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles/coding/LearnVim.md) 
 
+[PuTTY使用踩坑](articles\coding\Putty.md)  
+
 [欢迎低血压人士使用PuTTY](articles/coding/runC.md)  
 
 [为什么RISC-V中的SB-format不叫B-format，UJ-format不叫J-format？](articles/coding/RISC-VFormat.md)  
@@ -37,7 +39,6 @@ Intellij IDEA的按键绑定可以更换成其他IDE的，点击右上角搜索�
 
 [Git教程哪家强？](articles\coding\LearnGit.md)  
 
-[PuTTY使用踩坑（如果不是被逼的，别用这玩意！）](articles\coding\Putty.md)  
 
 [CS61B 数据结构](articles\coding\CS61B.md)  
 
