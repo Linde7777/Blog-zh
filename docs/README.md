@@ -5,6 +5,8 @@
 # 编程
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles/coding/LearnVim.md) 
 
+[欢迎低血压人士使用PuTTY](articles/coding/runC.md)  
+
 [为什么RISC-V中的SB-format不叫B-format，UJ-format不叫J-format？](articles/coding/RISC-VFormat.md)  
 
 [英文原著阅读工具](articles/coding/ReadEnglish.md)  
