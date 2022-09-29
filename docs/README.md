@@ -23,7 +23,7 @@
 
 [CS144 计算机网络（更新：自顶向下方法）](articles\coding\CS144.md)  
 
-[CS61C 计算机组成原理（更新：RISC-V插件）](articles\coding\CS61C.md)  
+[CS61C 计算机体系结构（更新：RISC-V插件）](articles\coding\CS61C.md)  
 
 https://pythontutor.com/c.html#mode=edit 多种流行语言的Visualizer
 
