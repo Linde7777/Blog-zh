@@ -1,4 +1,4 @@
-更好的阅读体验：https://linde7777.github.io/Blog-zh/#/
+新版博客：https://linde7777.github.io/Blog-zh/#/
 
 以下是旧版博客，不再更新。  
 
