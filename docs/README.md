@@ -5,6 +5,9 @@
 # 编程
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles/coding/LearnVim.md) 
 
+VMware 16真的牛逼，不像旧版本，现在的窗口大小是自动设置的，强烈推荐，比
+VirtualBox好用多了。  
+
 [PuTTY使用踩坑](articles\coding\Putty.md)  
 
 [欢迎低血压人士使用PuTTY](articles/coding/runC.md)  
