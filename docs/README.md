@@ -5,6 +5,8 @@
 # 编程
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles/coding/LearnVim.md) 
 
+[操作系统 6.s081](articles/coding/6.s081.md)  
+
 VMware 16真的牛逼，不像旧版本，现在的窗口大小是自动设置的，强烈推荐，比
 VirtualBox好用多了。  
 
@@ -44,8 +46,6 @@ Intellij IDEA的按键绑定可以更换成其他IDE的，点击右上角搜索�
 
 
 [CS61B 数据结构](articles\coding\CS61B.md)  
-
-[CS186 数据库（更新：Spring 2015）](articles\coding\CS186.md)
 
 [比较轻松的递归入门练习（第2次更新）](articles\coding\Recursive.md)    
 
