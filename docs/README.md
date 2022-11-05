@@ -5,7 +5,7 @@
 # 编程
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles/coding/LearnVim.md) 
 
-[操作系统 6.s081](articles/coding/6.s081.md)  
+[6.s081 操作系统](articles/coding/6.s081.md)  
 
 VMware 16真的牛逼，不像旧版本，现在的窗口大小是自动设置的，强烈推荐，比
 VirtualBox好用多了。  
