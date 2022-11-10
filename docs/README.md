@@ -5,6 +5,8 @@
 # 编程
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles/coding/LearnVim.md) 
 
+[Debug记录（更新：全局变量与形参）](articles\coding\DebugRecord.md)  
+
 [用VS Code连接服务器或本地虚拟机的简短教程（更新：重装虚拟机后连接失败怎么解决？](articles\coding\VSCodeConnectServer.md)  
 
 [6.s081 操作系统](articles/coding/6.s081.md)  
@@ -22,8 +24,6 @@ VMware 16真的牛逼，不像旧版本，现在的窗口大小是自动设置�
 有个比喻可以用来说明为什么不存在又快又大的cache：你的书架越大，越难定位一本书的位置。但多找几个人多几双眼睛，就能解决这个问题，那为什么计算机没有类似的设计？根据@莎莎的解答，原因是：贵。  
 
 [英语学习（更新：绝命毒师）](articles\coding\LearnEnglish.md)  
-
-[Debug记录（更新：画蛇添足两则）](articles\coding\DebugRecord.md)  
 
 [CS144 计算机网络（更新：自顶向下方法）](articles\coding\CS144.md)  
 

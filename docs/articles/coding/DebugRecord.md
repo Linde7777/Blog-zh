@@ -1,7 +1,10 @@
+### 全局变量与形参
+我把一个指针p声明为static全局变量，执行完一个函数后这个指针居然变成了NULL，后面想起来之前遇到过类似的bug（“画蛇添足 2”），我一开始没想着要把p设置为全局变量，而是把它作为参数传进函数里面，后面把p改成全局变量了，忘记把p从参数列表里面删掉，然后函数执行时，p指针就是形参的那个指针，也就是NULL。  
+
 ### 复制是bug之源
 写CS61B的作业的时候，有两个类的功能很像，我就直接复制过去，但改名没改完全，漏了一个。手打代码更省时间，不用费心思找bug。  
 
-### 画蛇添足
+### 画蛇添足 2
 
 ```
 public class AcceleratingSawToothGenerator implements Generator {
@@ -32,7 +35,7 @@ public class AcceleratingSawToothGenerator implements Generator {
 Debug的时候发现明明在```state = state % this.period```这一步把state设置为0，但走到```return (state / magnification) - offset;```这一步的时候发现state居然又变成了201，最后发现这个state是形参，不是this.state，state明明就在这个类里面，我还要给这个函数传入state这个参数，完全没必要。  
 
 
-### 画蛇添足
+### 画蛇添足 1
 ```
 public class SeamCarver {
     private Picture picture;
