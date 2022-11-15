@@ -5,6 +5,8 @@
 # 编程
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles/coding/LearnVim.md) 
 
+[CS61C 计算机体系结构（更新：Logisim Debug提示）](articles\coding\CS61C.md)  
+
 [Debug记录（更新：全局变量与形参）](articles\coding\DebugRecord.md)  
 
 [用VS Code连接服务器或本地虚拟机的简短教程（更新：重装虚拟机后连接失败怎么解决？](articles\coding\VSCodeConnectServer.md)  
@@ -26,8 +28,6 @@ VMware 16真的牛逼，不像旧版本，现在的窗口大小是自动设置�
 [英语学习（更新：绝命毒师）](articles\coding\LearnEnglish.md)  
 
 [CS144 计算机网络（更新：自顶向下方法）](articles\coding\CS144.md)  
-
-[CS61C 计算机体系结构（更新：RISC-V插件）](articles\coding\CS61C.md)  
 
 https://pythontutor.com/c.html#mode=edit 多种流行语言的Visualizer
 

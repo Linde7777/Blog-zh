@@ -25,3 +25,7 @@
 1. 用记事本或者VS Code打开known_hosts，把包含你重装的虚拟机的ip那一条删掉
 2. 打开同一目录下的config，把包含你重装的虚拟机的ip的那三行删掉。
 3. 问题解决，按照原来的方法连接即可。  
+
+问题描述：虚拟机出现"Temporary failure in name resolution" Error  
+
+解决方案：谷歌后得出的教程[phoenixnap:tempory-failure-in-name-resolution](https://phoenixnap.com/kb/temporary-failure-in-name-resolution#:~:text=The%20%22Temporary%20failure%20in%20name%20resolution%22%20error%20occurs%20when%20the,show%20up%20on%20your%20system.)告诉你要在配置文件里添加DNS的地址。通常情况下，这种方法能成功。但是过了十几天后，这个问题会再次出现，如果你按照教程里面的方法打开配置文件，会发现你之前添加的DNS的地址又不见了，加回去就行。  
