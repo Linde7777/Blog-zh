@@ -5,6 +5,8 @@
 # 编程
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles/coding/LearnVim.md) 
 
+为了解决VMware上Ubuntu隔一会就卡死的问题，重装了系统，您猜怎么着？Ubuntu在安装的过程中卡死了。  
+
 [CS61C 计算机体系结构（更新：Logisim Debug提示）](articles\coding\CS61C.md)  
 
 [Debug记录（更新：全局变量与形参）](articles\coding\DebugRecord.md)  
@@ -13,7 +15,6 @@
 
 [6.s081 操作系统](articles/coding/6.s081.md)  
 
-VMware 16真的牛逼，不像旧版本，现在的窗口大小是自动设置的，强烈推荐，比VirtualBox好用多了。  
 
 [PuTTY使用踩坑](articles\coding\Putty.md)  
 
