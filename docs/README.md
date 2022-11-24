@@ -6,6 +6,7 @@
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles/coding/LearnVim.md) 
 
 为了解决VMware上Ubuntu隔一会就卡死的问题，打算重装一遍。可您猜怎么着？Ubuntu在安装的过程中卡死了。  
+后续：把Ubuntu从20.04换成18.04，问题解决  
 
 [CS61C 计算机体系结构（更新：Logisim Debug提示）](articles\coding\CS61C.md)  
 
