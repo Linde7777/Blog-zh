@@ -143,6 +143,8 @@ Kindle保护壳一定要买硬壳的，能防止屏幕被压坏的那种
 
 
 # 科学
+[塔勒布三部曲《随机漫步的傻瓜》《黑天鹅》《反脆弱》](articles\science\taleb.md)  
+
 [《How to: 如何不切实际地解决实际问题》](articles\science\HowTo.md)  
 
 [《异类》](articles\science\Outlier.md)和
