@@ -19,7 +19,6 @@
 
 [6.s081 操作系统](articles/coding/6.s081.md)  
 
-
 [PuTTY使用踩坑](articles\coding\Putty.md)  
 
 [欢迎低血压人士使用PuTTY](articles/coding/runC.md)  
@@ -47,7 +46,6 @@ Intellij IDEA的按键绑定可以更换成其他IDE的，点击右上角搜索�
 在IDEA/Adobe Acrobat DC/Chrome中，`Alt+左箭头` `Alt+右箭头`可以在不同页面之间跳转。  
 
 [Git教程哪家强？](articles\coding\LearnGit.md)  
-
 
 [CS61B 数据结构](articles\coding\CS61B.md)  
 
