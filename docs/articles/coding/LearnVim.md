@@ -23,4 +23,3 @@
 如果你要在Linux上使用Vim，可以试试这个：https://github.com/amix/vimrc ，复制个指令就能配置好。  
 谷歌和火狐浏览器推荐Vimium插件  
 推荐《Vim实用技巧》  
-
