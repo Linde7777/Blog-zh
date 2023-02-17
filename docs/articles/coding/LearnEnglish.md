@@ -33,6 +33,7 @@ Youtube按C键可以隐藏字幕，方便对课件截屏。
 
 
 # Youtube推荐
+[America's Test Kitchen](https://www.youtube.com/@AmericasTestKitchen) 做饭小技巧：最快解冻冷冻肉的方法、空气炸锅的终极指南  
 [Tom Scott](https://www.youtube.com/c/TomScottGo)科普  
 [Oversimplified](https://www.youtube.com/c/OverSimplified) 用动画讲历史，英国和美国的猪战争(Pig war)、拿破仑战争、三国......  
 [Zach Star](https://www.youtube.com/c/zachstar) 推荐观看[This is How Easy It Is to Lie With Statistics](https://www.youtube.com/watch?v=bVG2OQp6jEQ&ab_channel=ZachStar)  
