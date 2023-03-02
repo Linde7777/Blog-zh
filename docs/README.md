@@ -5,11 +5,11 @@
 # 编程
 [置顶-每天30分钟，3天掌握Vim的基本操作（不是标题党！）](articles/coding/LearnVim.md) 
 
+[Debug记录（更新：Valgrind: Conditional jump or move depends on uninitialized value(s)）](articles\coding\DebugRecord.md)  
+
 有道词典有时候会引起奇怪的问题，比如截图时卡顿，无法复制。  
 
 [CS61C 计算机体系结构（更新：Logisim Debug提示）](articles\coding\CS61C.md)  
-
-[Debug记录（更新：全局变量与形参）](articles\coding\DebugRecord.md)  
 
 [用VS Code连接服务器或本地虚拟机的简短教程（更新：重装虚拟机后连接失败怎么解决？](articles\coding\VSCodeConnectServer.md)  
 

@@ -1,3 +1,39 @@
+### Valgrind: Conditional jump or move depends on uninitialized value(s)
+https://bytes.usc.edu/cs104/wiki/valgrind/
+里面给出的例子很易懂，我在写一个添加链表节点的函数的时候遇到了一个没那么明显的。
+
+```
+Node* appendNode(Node* head, int v) {
+   if (head == NULL) {
+      return NULL;
+   }
+
+    Node* p = head;
+    while (p->next != NULL) {
+        p = p->next;
+    }
+
+    // bad style
+    p->next = (Node *)malloc(sizeof(Node));
+    p = p->next;
+    p->data = v;
+    p->next = NULL;
+
+    return p;
+}
+```
+这里valgrind报错是因为：给p->next分配了空间后，这个空间是没有被赋值的（即没有被初始化），然后又执行了p = p->next，相当于跳到了一个没有被初始化的地方。
+
+应该改为
+```
+    Node *node = (Node *)malloc(sizeof(Node));
+    node->data = v;
+    node->next = NULL;
+    p->next = node;
+
+```
+
+
 ### 全局变量与形参
 我把一个指针p声明为static全局变量，执行完一个函数后这个指针居然变成了NULL，后面想起来之前遇到过类似的bug（“画蛇添足 2”），我一开始没想着要把p设置为全局变量，而是把它作为参数传进函数里面，后面把p改成全局变量了，忘记把p从参数列表里面删掉，然后函数执行时，p指针就是形参的那个指针，也就是NULL。  
 
