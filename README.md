@@ -1,4 +1,4 @@
-新版博客：https://linde7777.github.io/Blog-zh/#/
+新版博客：https://linde.gitbook.io/blog/  
 
 以下是旧版博客，不再更新。  
 
